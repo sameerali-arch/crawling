@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment / secrets (cookies, tokens, etc.)
+.env
+.env.*
+!.env.example
+
+# Generated rate-limit probe output (overwritten on every run)
+rate-limit-*results.jsonl
+rate-limit-*summary.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Misc
+dist/
+build/
+coverage/
+.cache/
+tmp/

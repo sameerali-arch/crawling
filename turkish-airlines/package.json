@@ -1,0 +1,10 @@
+{
+  "name": "turkish-airlines",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "award": "node src/award-miles.js",
+    "rate-limit": "node src/rate-limit-probe.js"
+  }
+}

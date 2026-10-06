@@ -1,0 +1,4050 @@
+[
+  {
+    "origin": "ADW",
+    "destination": "BOS"
+  },
+  {
+    "origin": "ADW",
+    "destination": "HAN"
+  },
+  {
+    "origin": "AKL",
+    "destination": "CBR"
+  },
+  {
+    "origin": "AKL",
+    "destination": "HAN"
+  },
+  {
+    "origin": "AKL",
+    "destination": "MEL"
+  },
+  {
+    "origin": "AKL",
+    "destination": "WLG"
+  },
+  {
+    "origin": "ALG",
+    "destination": "JNB"
+  },
+  {
+    "origin": "AMD",
+    "destination": "HAN"
+  },
+  {
+    "origin": "AMS",
+    "destination": "CDG"
+  },
+  {
+    "origin": "AMS",
+    "destination": "FRA"
+  },
+  {
+    "origin": "AMS",
+    "destination": "HAN"
+  },
+  {
+    "origin": "ANC",
+    "destination": "HAN"
+  },
+  {
+    "origin": "ANC",
+    "destination": "JFK"
+  },
+  {
+    "origin": "ARN",
+    "destination": "HAN"
+  },
+  {
+    "origin": "ARN",
+    "destination": "ORY"
+  },
+  {
+    "origin": "ATL",
+    "destination": "AUS"
+  },
+  {
+    "origin": "ATL",
+    "destination": "BQK"
+  },
+  {
+    "origin": "ATL",
+    "destination": "DFW"
+  },
+  {
+    "origin": "ATL",
+    "destination": "FRA"
+  },
+  {
+    "origin": "ATL",
+    "destination": "HND"
+  },
+  {
+    "origin": "ATL",
+    "destination": "IAD"
+  },
+  {
+    "origin": "ATL",
+    "destination": "IAH"
+  },
+  {
+    "origin": "ATL",
+    "destination": "JAX"
+  },
+  {
+    "origin": "ATL",
+    "destination": "MIA"
+  },
+  {
+    "origin": "ATL",
+    "destination": "NRT"
+  },
+  {
+    "origin": "ATL",
+    "destination": "TYO"
+  },
+  {
+    "origin": "AUH",
+    "destination": "BKK"
+  },
+  {
+    "origin": "AUH",
+    "destination": "DMM"
+  },
+  {
+    "origin": "AUH",
+    "destination": "HAN"
+  },
+  {
+    "origin": "AUH",
+    "destination": "KTI"
+  },
+  {
+    "origin": "AUH",
+    "destination": "KUL"
+  },
+  {
+    "origin": "AUH",
+    "destination": "RUH"
+  },
+  {
+    "origin": "AUH",
+    "destination": "SGN"
+  },
+  {
+    "origin": "AUH",
+    "destination": "SIN"
+  },
+  {
+    "origin": "AUS",
+    "destination": "ATL"
+  },
+  {
+    "origin": "BCN",
+    "destination": "CDG"
+  },
+  {
+    "origin": "BFI",
+    "destination": "JFK"
+  },
+  {
+    "origin": "BJS",
+    "destination": "HAN"
+  },
+  {
+    "origin": "BJS",
+    "destination": "KTI"
+  },
+  {
+    "origin": "BJS",
+    "destination": "SGN"
+  },
+  {
+    "origin": "BKK",
+    "destination": "AUH"
+  },
+  {
+    "origin": "BKK",
+    "destination": "BOM"
+  },
+  {
+    "origin": "BKK",
+    "destination": "CNX"
+  },
+  {
+    "origin": "BKK",
+    "destination": "DAD"
+  },
+  {
+    "origin": "BKK",
+    "destination": "DEL"
+  },
+  {
+    "origin": "BKK",
+    "destination": "HAN"
+  },
+  {
+    "origin": "BKK",
+    "destination": "HKT"
+  },
+  {
+    "origin": "BKK",
+    "destination": "KBV"
+  },
+  {
+    "origin": "BKK",
+    "destination": "KTI"
+  },
+  {
+    "origin": "BKK",
+    "destination": "NBO"
+  },
+  {
+    "origin": "BKK",
+    "destination": "PNH"
+  },
+  {
+    "origin": "BKK",
+    "destination": "RUH"
+  },
+  {
+    "origin": "BKK",
+    "destination": "SGN"
+  },
+  {
+    "origin": "BKK",
+    "destination": "TLV"
+  },
+  {
+    "origin": "BKK",
+    "destination": "USM"
+  },
+  {
+    "origin": "BLR",
+    "destination": "DEL"
+  },
+  {
+    "origin": "BLR",
+    "destination": "HAN"
+  },
+  {
+    "origin": "BMV",
+    "destination": "DAD"
+  },
+  {
+    "origin": "BMV",
+    "destination": "HAN"
+  },
+  {
+    "origin": "BMV",
+    "destination": "HPH"
+  },
+  {
+    "origin": "BMV",
+    "destination": "PQC"
+  },
+  {
+    "origin": "BMV",
+    "destination": "SGN"
+  },
+  {
+    "origin": "BMV",
+    "destination": "THD"
+  },
+  {
+    "origin": "BMV",
+    "destination": "VCA"
+  },
+  {
+    "origin": "BMV",
+    "destination": "VCL"
+  },
+  {
+    "origin": "BMV",
+    "destination": "VII"
+  },
+  {
+    "origin": "BOD",
+    "destination": "CDG"
+  },
+  {
+    "origin": "BOJ",
+    "destination": "HAN"
+  },
+  {
+    "origin": "BOM",
+    "destination": "BKK"
+  },
+  {
+    "origin": "BOM",
+    "destination": "CMB"
+  },
+  {
+    "origin": "BOM",
+    "destination": "HAN"
+  },
+  {
+    "origin": "BOM",
+    "destination": "SGN"
+  },
+  {
+    "origin": "BOM",
+    "destination": "SIN"
+  },
+  {
+    "origin": "BOS",
+    "destination": "JFK"
+  },
+  {
+    "origin": "BOS",
+    "destination": "MSP"
+  },
+  {
+    "origin": "BOS",
+    "destination": "NYC"
+  },
+  {
+    "origin": "BQK",
+    "destination": "ATL"
+  },
+  {
+    "origin": "BRU",
+    "destination": "HAN"
+  },
+  {
+    "origin": "BRU",
+    "destination": "HEL"
+  },
+  {
+    "origin": "BSB",
+    "destination": "HAN"
+  },
+  {
+    "origin": "BUD",
+    "destination": "LHR"
+  },
+  {
+    "origin": "BUD",
+    "destination": "OTP"
+  },
+  {
+    "origin": "BUE",
+    "destination": "ROS"
+  },
+  {
+    "origin": "BWA",
+    "destination": "HAN"
+  },
+  {
+    "origin": "BWN",
+    "destination": "HAN"
+  },
+  {
+    "origin": "CAH",
+    "destination": "HAN"
+  },
+  {
+    "origin": "CAH",
+    "destination": "SGN"
+  },
+  {
+    "origin": "CAI",
+    "destination": "LAD"
+  },
+  {
+    "origin": "CAN",
+    "destination": "DAD"
+  },
+  {
+    "origin": "CAN",
+    "destination": "HAN"
+  },
+  {
+    "origin": "CAN",
+    "destination": "KTI"
+  },
+  {
+    "origin": "CAN",
+    "destination": "PKX"
+  },
+  {
+    "origin": "CAN",
+    "destination": "SGN"
+  },
+  {
+    "origin": "CBR",
+    "destination": "AKL"
+  },
+  {
+    "origin": "CBR",
+    "destination": "HAN"
+  },
+  {
+    "origin": "CBR",
+    "destination": "MEL"
+  },
+  {
+    "origin": "CBR",
+    "destination": "SYD"
+  },
+  {
+    "origin": "CCS",
+    "destination": "HAN"
+  },
+  {
+    "origin": "CDG",
+    "destination": "AMS"
+  },
+  {
+    "origin": "CDG",
+    "destination": "BCN"
+  },
+  {
+    "origin": "CDG",
+    "destination": "BOD"
+  },
+  {
+    "origin": "CDG",
+    "destination": "CPH"
+  },
+  {
+    "origin": "CDG",
+    "destination": "CXR"
+  },
+  {
+    "origin": "CDG",
+    "destination": "FCO"
+  },
+  {
+    "origin": "CDG",
+    "destination": "FRA"
+  },
+  {
+    "origin": "CDG",
+    "destination": "GIG"
+  },
+  {
+    "origin": "CDG",
+    "destination": "GVA"
+  },
+  {
+    "origin": "CDG",
+    "destination": "HAN"
+  },
+  {
+    "origin": "CDG",
+    "destination": "KTI"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LHR"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LIM"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LYS"
+  },
+  {
+    "origin": "CDG",
+    "destination": "MAD"
+  },
+  {
+    "origin": "CDG",
+    "destination": "MPL"
+  },
+  {
+    "origin": "CDG",
+    "destination": "MRS"
+  },
+  {
+    "origin": "CDG",
+    "destination": "NCE"
+  },
+  {
+    "origin": "CDG",
+    "destination": "NTE"
+  },
+  {
+    "origin": "CDG",
+    "destination": "OSL"
+  },
+  {
+    "origin": "CDG",
+    "destination": "QXB"
+  },
+  {
+    "origin": "CDG",
+    "destination": "RNS"
+  },
+  {
+    "origin": "CDG",
+    "destination": "SCL"
+  },
+  {
+    "origin": "CDG",
+    "destination": "SDQ"
+  },
+  {
+    "origin": "CDG",
+    "destination": "SGN"
+  },
+  {
+    "origin": "CDG",
+    "destination": "TLS"
+  },
+  {
+    "origin": "CDG",
+    "destination": "VDO"
+  },
+  {
+    "origin": "CDG",
+    "destination": "VIE"
+  },
+  {
+    "origin": "CDG",
+    "destination": "VLC"
+  },
+  {
+    "origin": "CDG",
+    "destination": "VLN"
+  },
+  {
+    "origin": "CDG",
+    "destination": "ZFQ"
+  },
+  {
+    "origin": "CDG",
+    "destination": "ZRH"
+  },
+  {
+    "origin": "CEB",
+    "destination": "HAN"
+  },
+  {
+    "origin": "CEB",
+    "destination": "MNL"
+  },
+  {
+    "origin": "CGK",
+    "destination": "DPS"
+  },
+  {
+    "origin": "CGK",
+    "destination": "HAN"
+  },
+  {
+    "origin": "CGK",
+    "destination": "JED"
+  },
+  {
+    "origin": "CGK",
+    "destination": "SGN"
+  },
+  {
+    "origin": "CGK",
+    "destination": "SIN"
+  },
+  {
+    "origin": "CGK",
+    "destination": "SUB"
+  },
+  {
+    "origin": "CGK",
+    "destination": "THR"
+  },
+  {
+    "origin": "CGK",
+    "destination": "YIA"
+  },
+  {
+    "origin": "CIA",
+    "destination": "IST"
+  },
+  {
+    "origin": "CIA",
+    "destination": "MXP"
+  },
+  {
+    "origin": "CKG",
+    "destination": "HAN"
+  },
+  {
+    "origin": "CKG",
+    "destination": "KMG"
+  },
+  {
+    "origin": "CKG",
+    "destination": "KTI"
+  },
+  {
+    "origin": "CMB",
+    "destination": "HAN"
+  },
+  {
+    "origin": "CMB",
+    "destination": "SGN"
+  },
+  {
+    "origin": "CNX",
+    "destination": "BKK"
+  },
+  {
+    "origin": "CNX",
+    "destination": "HAN"
+  },
+  {
+    "origin": "CPH",
+    "destination": "CDG"
+  },
+  {
+    "origin": "CPH",
+    "destination": "SGN"
+  },
+  {
+    "origin": "CTS",
+    "destination": "HAN"
+  },
+  {
+    "origin": "CTS",
+    "destination": "HND"
+  },
+  {
+    "origin": "CTS",
+    "destination": "KIX"
+  },
+  {
+    "origin": "CTS",
+    "destination": "NGO"
+  },
+  {
+    "origin": "CTS",
+    "destination": "NRT"
+  },
+  {
+    "origin": "CTS",
+    "destination": "SGN"
+  },
+  {
+    "origin": "CTU",
+    "destination": "DAD"
+  },
+  {
+    "origin": "CTU",
+    "destination": "HAN"
+  },
+  {
+    "origin": "CTU",
+    "destination": "PKX"
+  },
+  {
+    "origin": "CTU",
+    "destination": "PVG"
+  },
+  {
+    "origin": "CTU",
+    "destination": "SGN"
+  },
+  {
+    "origin": "CXR",
+    "destination": "CDG"
+  },
+  {
+    "origin": "CXR",
+    "destination": "DAD"
+  },
+  {
+    "origin": "CXR",
+    "destination": "DME"
+  },
+  {
+    "origin": "CXR",
+    "destination": "FRA"
+  },
+  {
+    "origin": "CXR",
+    "destination": "HAN"
+  },
+  {
+    "origin": "CXR",
+    "destination": "HKG"
+  },
+  {
+    "origin": "CXR",
+    "destination": "HND"
+  },
+  {
+    "origin": "CXR",
+    "destination": "HPH"
+  },
+  {
+    "origin": "CXR",
+    "destination": "ICN"
+  },
+  {
+    "origin": "CXR",
+    "destination": "JJN"
+  },
+  {
+    "origin": "CXR",
+    "destination": "PEK"
+  },
+  {
+    "origin": "CXR",
+    "destination": "PQC"
+  },
+  {
+    "origin": "CXR",
+    "destination": "PUS"
+  },
+  {
+    "origin": "CXR",
+    "destination": "SGN"
+  },
+  {
+    "origin": "CXR",
+    "destination": "SIN"
+  },
+  {
+    "origin": "CXR",
+    "destination": "TSN"
+  },
+  {
+    "origin": "CXR",
+    "destination": "VII"
+  },
+  {
+    "origin": "DAC",
+    "destination": "SOF"
+  },
+  {
+    "origin": "DAD",
+    "destination": "BKK"
+  },
+  {
+    "origin": "DAD",
+    "destination": "BMV"
+  },
+  {
+    "origin": "DAD",
+    "destination": "CAN"
+  },
+  {
+    "origin": "DAD",
+    "destination": "CTU"
+  },
+  {
+    "origin": "DAD",
+    "destination": "CXR"
+  },
+  {
+    "origin": "DAD",
+    "destination": "DLI"
+  },
+  {
+    "origin": "DAD",
+    "destination": "DMK"
+  },
+  {
+    "origin": "DAD",
+    "destination": "FRA"
+  },
+  {
+    "origin": "DAD",
+    "destination": "HAN"
+  },
+  {
+    "origin": "DAD",
+    "destination": "HGH"
+  },
+  {
+    "origin": "DAD",
+    "destination": "HKG"
+  },
+  {
+    "origin": "DAD",
+    "destination": "HPH"
+  },
+  {
+    "origin": "DAD",
+    "destination": "ICN"
+  },
+  {
+    "origin": "DAD",
+    "destination": "KIX"
+  },
+  {
+    "origin": "DAD",
+    "destination": "KTI"
+  },
+  {
+    "origin": "DAD",
+    "destination": "KUL"
+  },
+  {
+    "origin": "DAD",
+    "destination": "MEL"
+  },
+  {
+    "origin": "DAD",
+    "destination": "MFM"
+  },
+  {
+    "origin": "DAD",
+    "destination": "MNL"
+  },
+  {
+    "origin": "DAD",
+    "destination": "MWX"
+  },
+  {
+    "origin": "DAD",
+    "destination": "NRT"
+  },
+  {
+    "origin": "DAD",
+    "destination": "PNH"
+  },
+  {
+    "origin": "DAD",
+    "destination": "PQC"
+  },
+  {
+    "origin": "DAD",
+    "destination": "PUS"
+  },
+  {
+    "origin": "DAD",
+    "destination": "PVG"
+  },
+  {
+    "origin": "DAD",
+    "destination": "PXU"
+  },
+  {
+    "origin": "DAD",
+    "destination": "REP"
+  },
+  {
+    "origin": "DAD",
+    "destination": "SAI"
+  },
+  {
+    "origin": "DAD",
+    "destination": "SGN"
+  },
+  {
+    "origin": "DAD",
+    "destination": "SIN"
+  },
+  {
+    "origin": "DAD",
+    "destination": "THD"
+  },
+  {
+    "origin": "DAD",
+    "destination": "TPE"
+  },
+  {
+    "origin": "DAD",
+    "destination": "VCA"
+  },
+  {
+    "origin": "DAD",
+    "destination": "VDO"
+  },
+  {
+    "origin": "DAD",
+    "destination": "VII"
+  },
+  {
+    "origin": "DEL",
+    "destination": "BKK"
+  },
+  {
+    "origin": "DEL",
+    "destination": "BLR"
+  },
+  {
+    "origin": "DEL",
+    "destination": "BOM"
+  },
+  {
+    "origin": "DEL",
+    "destination": "HAN"
+  },
+  {
+    "origin": "DEL",
+    "destination": "ICN"
+  },
+  {
+    "origin": "DEL",
+    "destination": "SGN"
+  },
+  {
+    "origin": "DEL",
+    "destination": "SIN"
+  },
+  {
+    "origin": "DEN",
+    "destination": "MSP"
+  },
+  {
+    "origin": "DFW",
+    "destination": "ATL"
+  },
+  {
+    "origin": "DIA",
+    "destination": "HAN"
+  },
+  {
+    "origin": "DIA",
+    "destination": "RUH"
+  },
+  {
+    "origin": "DIN",
+    "destination": "HAN"
+  },
+  {
+    "origin": "DIN",
+    "destination": "HPH"
+  },
+  {
+    "origin": "DIN",
+    "destination": "SGN"
+  },
+  {
+    "origin": "DLC",
+    "destination": "HAN"
+  },
+  {
+    "origin": "DLC",
+    "destination": "PEK"
+  },
+  {
+    "origin": "DLC",
+    "destination": "PKX"
+  },
+  {
+    "origin": "DLI",
+    "destination": "DAD"
+  },
+  {
+    "origin": "DLI",
+    "destination": "HAN"
+  },
+  {
+    "origin": "DLI",
+    "destination": "HPH"
+  },
+  {
+    "origin": "DLI",
+    "destination": "HUI"
+  },
+  {
+    "origin": "DLI",
+    "destination": "PQC"
+  },
+  {
+    "origin": "DLI",
+    "destination": "SGN"
+  },
+  {
+    "origin": "DLI",
+    "destination": "THD"
+  },
+  {
+    "origin": "DLI",
+    "destination": "VCA"
+  },
+  {
+    "origin": "DLI",
+    "destination": "VII"
+  },
+  {
+    "origin": "DME",
+    "destination": "CXR"
+  },
+  {
+    "origin": "DME",
+    "destination": "HAN"
+  },
+  {
+    "origin": "DME",
+    "destination": "SGN"
+  },
+  {
+    "origin": "DMK",
+    "destination": "DAD"
+  },
+  {
+    "origin": "DMK",
+    "destination": "HAN"
+  },
+  {
+    "origin": "DMK",
+    "destination": "KTI"
+  },
+  {
+    "origin": "DMK",
+    "destination": "SIN"
+  },
+  {
+    "origin": "DMK",
+    "destination": "UTH"
+  },
+  {
+    "origin": "DMM",
+    "destination": "AUH"
+  },
+  {
+    "origin": "DNH",
+    "destination": "HAN"
+  },
+  {
+    "origin": "DPS",
+    "destination": "CGK"
+  },
+  {
+    "origin": "DPS",
+    "destination": "HAN"
+  },
+  {
+    "origin": "DPS",
+    "destination": "SGN"
+  },
+  {
+    "origin": "DPS",
+    "destination": "SIN"
+  },
+  {
+    "origin": "DSS",
+    "destination": "RBA"
+  },
+  {
+    "origin": "DTW",
+    "destination": "FRA"
+  },
+  {
+    "origin": "DTW",
+    "destination": "NRT"
+  },
+  {
+    "origin": "DUB",
+    "destination": "ORY"
+  },
+  {
+    "origin": "DUB",
+    "destination": "UBN"
+  },
+  {
+    "origin": "DWC",
+    "destination": "HAN"
+  },
+  {
+    "origin": "DXB",
+    "destination": "KTI"
+  },
+  {
+    "origin": "ESB",
+    "destination": "DWC"
+  },
+  {
+    "origin": "EVN",
+    "destination": "HAN"
+  },
+  {
+    "origin": "EVN",
+    "destination": "TAS"
+  },
+  {
+    "origin": "FCO",
+    "destination": "CDG"
+  },
+  {
+    "origin": "FCO",
+    "destination": "FRA"
+  },
+  {
+    "origin": "FCO",
+    "destination": "HAN"
+  },
+  {
+    "origin": "FCO",
+    "destination": "MUC"
+  },
+  {
+    "origin": "FKS",
+    "destination": "SGN"
+  },
+  {
+    "origin": "FNJ",
+    "destination": "HAN"
+  },
+  {
+    "origin": "FOC",
+    "destination": "KTI"
+  },
+  {
+    "origin": "FOC",
+    "destination": "SGN"
+  },
+  {
+    "origin": "FRA",
+    "destination": "AMS"
+  },
+  {
+    "origin": "FRA",
+    "destination": "ATL"
+  },
+  {
+    "origin": "FRA",
+    "destination": "CDG"
+  },
+  {
+    "origin": "FRA",
+    "destination": "CXR"
+  },
+  {
+    "origin": "FRA",
+    "destination": "DAD"
+  },
+  {
+    "origin": "FRA",
+    "destination": "DTW"
+  },
+  {
+    "origin": "FRA",
+    "destination": "FCO"
+  },
+  {
+    "origin": "FRA",
+    "destination": "HAN"
+  },
+  {
+    "origin": "FRA",
+    "destination": "HEL"
+  },
+  {
+    "origin": "FRA",
+    "destination": "ICN"
+  },
+  {
+    "origin": "FRA",
+    "destination": "JFK"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LGW"
+  },
+  {
+    "origin": "FRA",
+    "destination": "MAD"
+  },
+  {
+    "origin": "FRA",
+    "destination": "PRG"
+  },
+  {
+    "origin": "FRA",
+    "destination": "SGN"
+  },
+  {
+    "origin": "FRA",
+    "destination": "VDO"
+  },
+  {
+    "origin": "FUK",
+    "destination": "HAN"
+  },
+  {
+    "origin": "FUK",
+    "destination": "HND"
+  },
+  {
+    "origin": "FUK",
+    "destination": "NRT"
+  },
+  {
+    "origin": "FUK",
+    "destination": "SGN"
+  },
+  {
+    "origin": "GAY",
+    "destination": "DEL"
+  },
+  {
+    "origin": "GAY",
+    "destination": "HAN"
+  },
+  {
+    "origin": "GAY",
+    "destination": "SGN"
+  },
+  {
+    "origin": "GIG",
+    "destination": "CDG"
+  },
+  {
+    "origin": "GIG",
+    "destination": "SDQ"
+  },
+  {
+    "origin": "GMP",
+    "destination": "KTI"
+  },
+  {
+    "origin": "GRU",
+    "destination": "BSB"
+  },
+  {
+    "origin": "GVA",
+    "destination": "CDG"
+  },
+  {
+    "origin": "GVA",
+    "destination": "HAN"
+  },
+  {
+    "origin": "GVA",
+    "destination": "VKO"
+  },
+  {
+    "origin": "GYD",
+    "destination": "NQZ"
+  },
+  {
+    "origin": "GYD",
+    "destination": "VKO"
+  },
+  {
+    "origin": "HAK",
+    "destination": "HAN"
+  },
+  {
+    "origin": "HAN",
+    "destination": "ADW"
+  },
+  {
+    "origin": "HAN",
+    "destination": "AKL"
+  },
+  {
+    "origin": "HAN",
+    "destination": "AMD"
+  },
+  {
+    "origin": "HAN",
+    "destination": "AMS"
+  },
+  {
+    "origin": "HAN",
+    "destination": "ANC"
+  },
+  {
+    "origin": "HAN",
+    "destination": "ARN"
+  },
+  {
+    "origin": "HAN",
+    "destination": "AUH"
+  },
+  {
+    "origin": "HAN",
+    "destination": "BFI"
+  },
+  {
+    "origin": "HAN",
+    "destination": "BJS"
+  },
+  {
+    "origin": "HAN",
+    "destination": "BKK"
+  },
+  {
+    "origin": "HAN",
+    "destination": "BLR"
+  },
+  {
+    "origin": "HAN",
+    "destination": "BMV"
+  },
+  {
+    "origin": "HAN",
+    "destination": "BOM"
+  },
+  {
+    "origin": "HAN",
+    "destination": "BUD"
+  },
+  {
+    "origin": "HAN",
+    "destination": "BWA"
+  },
+  {
+    "origin": "HAN",
+    "destination": "CAH"
+  },
+  {
+    "origin": "HAN",
+    "destination": "CAI"
+  },
+  {
+    "origin": "HAN",
+    "destination": "CAN"
+  },
+  {
+    "origin": "HAN",
+    "destination": "CBR"
+  },
+  {
+    "origin": "HAN",
+    "destination": "CCS"
+  },
+  {
+    "origin": "HAN",
+    "destination": "CDG"
+  },
+  {
+    "origin": "HAN",
+    "destination": "CEB"
+  },
+  {
+    "origin": "HAN",
+    "destination": "CGK"
+  },
+  {
+    "origin": "HAN",
+    "destination": "CIA"
+  },
+  {
+    "origin": "HAN",
+    "destination": "CKG"
+  },
+  {
+    "origin": "HAN",
+    "destination": "CNX"
+  },
+  {
+    "origin": "HAN",
+    "destination": "CTS"
+  },
+  {
+    "origin": "HAN",
+    "destination": "CTU"
+  },
+  {
+    "origin": "HAN",
+    "destination": "CXR"
+  },
+  {
+    "origin": "HAN",
+    "destination": "DAC"
+  },
+  {
+    "origin": "HAN",
+    "destination": "DAD"
+  },
+  {
+    "origin": "HAN",
+    "destination": "DEL"
+  },
+  {
+    "origin": "HAN",
+    "destination": "DIA"
+  },
+  {
+    "origin": "HAN",
+    "destination": "DIN"
+  },
+  {
+    "origin": "HAN",
+    "destination": "DLC"
+  },
+  {
+    "origin": "HAN",
+    "destination": "DLI"
+  },
+  {
+    "origin": "HAN",
+    "destination": "DME"
+  },
+  {
+    "origin": "HAN",
+    "destination": "DMK"
+  },
+  {
+    "origin": "HAN",
+    "destination": "DNH"
+  },
+  {
+    "origin": "HAN",
+    "destination": "DPS"
+  },
+  {
+    "origin": "HAN",
+    "destination": "DSS"
+  },
+  {
+    "origin": "HAN",
+    "destination": "ESB"
+  },
+  {
+    "origin": "HAN",
+    "destination": "EVN"
+  },
+  {
+    "origin": "HAN",
+    "destination": "FNJ"
+  },
+  {
+    "origin": "HAN",
+    "destination": "FRA"
+  },
+  {
+    "origin": "HAN",
+    "destination": "FUK"
+  },
+  {
+    "origin": "HAN",
+    "destination": "GAY"
+  },
+  {
+    "origin": "HAN",
+    "destination": "GVA"
+  },
+  {
+    "origin": "HAN",
+    "destination": "HAK"
+  },
+  {
+    "origin": "HAN",
+    "destination": "HAV"
+  },
+  {
+    "origin": "HAN",
+    "destination": "HEL"
+  },
+  {
+    "origin": "HAN",
+    "destination": "HIJ"
+  },
+  {
+    "origin": "HAN",
+    "destination": "HKG"
+  },
+  {
+    "origin": "HAN",
+    "destination": "HLP"
+  },
+  {
+    "origin": "HAN",
+    "destination": "HND"
+  },
+  {
+    "origin": "HAN",
+    "destination": "HUI"
+  },
+  {
+    "origin": "HAN",
+    "destination": "HYD"
+  },
+  {
+    "origin": "HAN",
+    "destination": "ICN"
+  },
+  {
+    "origin": "HAN",
+    "destination": "IST"
+  },
+  {
+    "origin": "HAN",
+    "destination": "IZO"
+  },
+  {
+    "origin": "HAN",
+    "destination": "JFK"
+  },
+  {
+    "origin": "HAN",
+    "destination": "JKT"
+  },
+  {
+    "origin": "HAN",
+    "destination": "KHH"
+  },
+  {
+    "origin": "HAN",
+    "destination": "KIX"
+  },
+  {
+    "origin": "HAN",
+    "destination": "KMG"
+  },
+  {
+    "origin": "HAN",
+    "destination": "KOJ"
+  },
+  {
+    "origin": "HAN",
+    "destination": "KTI"
+  },
+  {
+    "origin": "HAN",
+    "destination": "KTM"
+  },
+  {
+    "origin": "HAN",
+    "destination": "KUL"
+  },
+  {
+    "origin": "HAN",
+    "destination": "KWI"
+  },
+  {
+    "origin": "HAN",
+    "destination": "KZN"
+  },
+  {
+    "origin": "HAN",
+    "destination": "LAX"
+  },
+  {
+    "origin": "HAN",
+    "destination": "LBJ"
+  },
+  {
+    "origin": "HAN",
+    "destination": "LGW"
+  },
+  {
+    "origin": "HAN",
+    "destination": "LHR"
+  },
+  {
+    "origin": "HAN",
+    "destination": "LPQ"
+  },
+  {
+    "origin": "HAN",
+    "destination": "LUX"
+  },
+  {
+    "origin": "HAN",
+    "destination": "MEL"
+  },
+  {
+    "origin": "HAN",
+    "destination": "MFM"
+  },
+  {
+    "origin": "HAN",
+    "destination": "MNL"
+  },
+  {
+    "origin": "HAN",
+    "destination": "MSQ"
+  },
+  {
+    "origin": "HAN",
+    "destination": "MUC"
+  },
+  {
+    "origin": "HAN",
+    "destination": "MXP"
+  },
+  {
+    "origin": "HAN",
+    "destination": "NGO"
+  },
+  {
+    "origin": "HAN",
+    "destination": "NKG"
+  },
+  {
+    "origin": "HAN",
+    "destination": "NNG"
+  },
+  {
+    "origin": "HAN",
+    "destination": "NQZ"
+  },
+  {
+    "origin": "HAN",
+    "destination": "NRT"
+  },
+  {
+    "origin": "HAN",
+    "destination": "OKJ"
+  },
+  {
+    "origin": "HAN",
+    "destination": "PEK"
+  },
+  {
+    "origin": "HAN",
+    "destination": "PIK"
+  },
+  {
+    "origin": "HAN",
+    "destination": "PKX"
+  },
+  {
+    "origin": "HAN",
+    "destination": "PNH"
+  },
+  {
+    "origin": "HAN",
+    "destination": "PQC"
+  },
+  {
+    "origin": "HAN",
+    "destination": "PRG"
+  },
+  {
+    "origin": "HAN",
+    "destination": "PUS"
+  },
+  {
+    "origin": "HAN",
+    "destination": "PVG"
+  },
+  {
+    "origin": "HAN",
+    "destination": "PXU"
+  },
+  {
+    "origin": "HAN",
+    "destination": "REP"
+  },
+  {
+    "origin": "HAN",
+    "destination": "RGN"
+  },
+  {
+    "origin": "HAN",
+    "destination": "RUH"
+  },
+  {
+    "origin": "HAN",
+    "destination": "SAI"
+  },
+  {
+    "origin": "HAN",
+    "destination": "SFO"
+  },
+  {
+    "origin": "HAN",
+    "destination": "SGN"
+  },
+  {
+    "origin": "HAN",
+    "destination": "SIN"
+  },
+  {
+    "origin": "HAN",
+    "destination": "SOC"
+  },
+  {
+    "origin": "HAN",
+    "destination": "SSG"
+  },
+  {
+    "origin": "HAN",
+    "destination": "SSN"
+  },
+  {
+    "origin": "HAN",
+    "destination": "STN"
+  },
+  {
+    "origin": "HAN",
+    "destination": "SVO"
+  },
+  {
+    "origin": "HAN",
+    "destination": "SYD"
+  },
+  {
+    "origin": "HAN",
+    "destination": "SZX"
+  },
+  {
+    "origin": "HAN",
+    "destination": "TAK"
+  },
+  {
+    "origin": "HAN",
+    "destination": "TBB"
+  },
+  {
+    "origin": "HAN",
+    "destination": "TFU"
+  },
+  {
+    "origin": "HAN",
+    "destination": "TLL"
+  },
+  {
+    "origin": "HAN",
+    "destination": "TPE"
+  },
+  {
+    "origin": "HAN",
+    "destination": "TSN"
+  },
+  {
+    "origin": "HAN",
+    "destination": "UBN"
+  },
+  {
+    "origin": "HAN",
+    "destination": "UIH"
+  },
+  {
+    "origin": "HAN",
+    "destination": "UTH"
+  },
+  {
+    "origin": "HAN",
+    "destination": "VCA"
+  },
+  {
+    "origin": "HAN",
+    "destination": "VCL"
+  },
+  {
+    "origin": "HAN",
+    "destination": "VDH"
+  },
+  {
+    "origin": "HAN",
+    "destination": "VIE"
+  },
+  {
+    "origin": "HAN",
+    "destination": "VII"
+  },
+  {
+    "origin": "HAN",
+    "destination": "VKO"
+  },
+  {
+    "origin": "HAN",
+    "destination": "VNS"
+  },
+  {
+    "origin": "HAN",
+    "destination": "VTE"
+  },
+  {
+    "origin": "HAN",
+    "destination": "WAS"
+  },
+  {
+    "origin": "HAN",
+    "destination": "WAW"
+  },
+  {
+    "origin": "HAN",
+    "destination": "ZRH"
+  },
+  {
+    "origin": "HAV",
+    "destination": "HAN"
+  },
+  {
+    "origin": "HAV",
+    "destination": "SCU"
+  },
+  {
+    "origin": "HEL",
+    "destination": "FRA"
+  },
+  {
+    "origin": "HEL",
+    "destination": "HAN"
+  },
+  {
+    "origin": "HEL",
+    "destination": "LHR"
+  },
+  {
+    "origin": "HEL",
+    "destination": "MUC"
+  },
+  {
+    "origin": "HEL",
+    "destination": "SOF"
+  },
+  {
+    "origin": "HGH",
+    "destination": "DAD"
+  },
+  {
+    "origin": "HGH",
+    "destination": "KTI"
+  },
+  {
+    "origin": "HGH",
+    "destination": "SGN"
+  },
+  {
+    "origin": "HIJ",
+    "destination": "HAN"
+  },
+  {
+    "origin": "HIJ",
+    "destination": "HND"
+  },
+  {
+    "origin": "HKG",
+    "destination": "CXR"
+  },
+  {
+    "origin": "HKG",
+    "destination": "DAD"
+  },
+  {
+    "origin": "HKG",
+    "destination": "HAN"
+  },
+  {
+    "origin": "HKG",
+    "destination": "KTI"
+  },
+  {
+    "origin": "HKG",
+    "destination": "SGN"
+  },
+  {
+    "origin": "HKG",
+    "destination": "TLV"
+  },
+  {
+    "origin": "HKT",
+    "destination": "BKK"
+  },
+  {
+    "origin": "HKT",
+    "destination": "SGN"
+  },
+  {
+    "origin": "HLP",
+    "destination": "SIN"
+  },
+  {
+    "origin": "HND",
+    "destination": "ATL"
+  },
+  {
+    "origin": "HND",
+    "destination": "CTS"
+  },
+  {
+    "origin": "HND",
+    "destination": "CXR"
+  },
+  {
+    "origin": "HND",
+    "destination": "FUK"
+  },
+  {
+    "origin": "HND",
+    "destination": "HAN"
+  },
+  {
+    "origin": "HND",
+    "destination": "HIJ"
+  },
+  {
+    "origin": "HND",
+    "destination": "ITM"
+  },
+  {
+    "origin": "HND",
+    "destination": "KCZ"
+  },
+  {
+    "origin": "HND",
+    "destination": "KMQ"
+  },
+  {
+    "origin": "HND",
+    "destination": "LAX"
+  },
+  {
+    "origin": "HND",
+    "destination": "MSP"
+  },
+  {
+    "origin": "HND",
+    "destination": "NGS"
+  },
+  {
+    "origin": "HND",
+    "destination": "OKA"
+  },
+  {
+    "origin": "HND",
+    "destination": "SGN"
+  },
+  {
+    "origin": "HND",
+    "destination": "TOY"
+  },
+  {
+    "origin": "HNL",
+    "destination": "NRT"
+  },
+  {
+    "origin": "HPH",
+    "destination": "BMV"
+  },
+  {
+    "origin": "HPH",
+    "destination": "CXR"
+  },
+  {
+    "origin": "HPH",
+    "destination": "DAD"
+  },
+  {
+    "origin": "HPH",
+    "destination": "DIN"
+  },
+  {
+    "origin": "HPH",
+    "destination": "DLI"
+  },
+  {
+    "origin": "HPH",
+    "destination": "ICN"
+  },
+  {
+    "origin": "HPH",
+    "destination": "PQC"
+  },
+  {
+    "origin": "HPH",
+    "destination": "SGN"
+  },
+  {
+    "origin": "HPH",
+    "destination": "VCA"
+  },
+  {
+    "origin": "HUI",
+    "destination": "DLI"
+  },
+  {
+    "origin": "HUI",
+    "destination": "HAN"
+  },
+  {
+    "origin": "HUI",
+    "destination": "PQC"
+  },
+  {
+    "origin": "HUI",
+    "destination": "SGN"
+  },
+  {
+    "origin": "HYD",
+    "destination": "HAN"
+  },
+  {
+    "origin": "IAD",
+    "destination": "ATL"
+  },
+  {
+    "origin": "IAH",
+    "destination": "ATL"
+  },
+  {
+    "origin": "ICN",
+    "destination": "CXR"
+  },
+  {
+    "origin": "ICN",
+    "destination": "DAD"
+  },
+  {
+    "origin": "ICN",
+    "destination": "DEL"
+  },
+  {
+    "origin": "ICN",
+    "destination": "FRA"
+  },
+  {
+    "origin": "ICN",
+    "destination": "HAN"
+  },
+  {
+    "origin": "ICN",
+    "destination": "HPH"
+  },
+  {
+    "origin": "ICN",
+    "destination": "KTI"
+  },
+  {
+    "origin": "ICN",
+    "destination": "PUS"
+  },
+  {
+    "origin": "ICN",
+    "destination": "SGN"
+  },
+  {
+    "origin": "IFN",
+    "destination": "HAN"
+  },
+  {
+    "origin": "IST",
+    "destination": "HAN"
+  },
+  {
+    "origin": "IST",
+    "destination": "SGN"
+  },
+  {
+    "origin": "ITM",
+    "destination": "HND"
+  },
+  {
+    "origin": "ITM",
+    "destination": "NRT"
+  },
+  {
+    "origin": "IZO",
+    "destination": "HAN"
+  },
+  {
+    "origin": "JAX",
+    "destination": "ATL"
+  },
+  {
+    "origin": "JED",
+    "destination": "CGK"
+  },
+  {
+    "origin": "JED",
+    "destination": "SIN"
+  },
+  {
+    "origin": "JFK",
+    "destination": "ANC"
+  },
+  {
+    "origin": "JFK",
+    "destination": "FRA"
+  },
+  {
+    "origin": "JFK",
+    "destination": "HAN"
+  },
+  {
+    "origin": "JFK",
+    "destination": "HAV"
+  },
+  {
+    "origin": "JFK",
+    "destination": "NRT"
+  },
+  {
+    "origin": "JFK",
+    "destination": "SCU"
+  },
+  {
+    "origin": "JFK",
+    "destination": "TPE"
+  },
+  {
+    "origin": "JFK",
+    "destination": "YOW"
+  },
+  {
+    "origin": "JJN",
+    "destination": "CXR"
+  },
+  {
+    "origin": "JKT",
+    "destination": "HAN"
+  },
+  {
+    "origin": "JKT",
+    "destination": "SGN"
+  },
+  {
+    "origin": "JKT",
+    "destination": "SIN"
+  },
+  {
+    "origin": "JNB",
+    "destination": "HAN"
+  },
+  {
+    "origin": "KBV",
+    "destination": "BKK"
+  },
+  {
+    "origin": "KCZ",
+    "destination": "HND"
+  },
+  {
+    "origin": "KHH",
+    "destination": "HAN"
+  },
+  {
+    "origin": "KHH",
+    "destination": "SGN"
+  },
+  {
+    "origin": "KIX",
+    "destination": "CTS"
+  },
+  {
+    "origin": "KIX",
+    "destination": "DAD"
+  },
+  {
+    "origin": "KIX",
+    "destination": "HAN"
+  },
+  {
+    "origin": "KIX",
+    "destination": "SGN"
+  },
+  {
+    "origin": "KMG",
+    "destination": "CKG"
+  },
+  {
+    "origin": "KMG",
+    "destination": "HAN"
+  },
+  {
+    "origin": "KMG",
+    "destination": "KTI"
+  },
+  {
+    "origin": "KMG",
+    "destination": "SGN"
+  },
+  {
+    "origin": "KMQ",
+    "destination": "HND"
+  },
+  {
+    "origin": "KOJ",
+    "destination": "HAN"
+  },
+  {
+    "origin": "KOS",
+    "destination": "REP"
+  },
+  {
+    "origin": "KOS",
+    "destination": "SGN"
+  },
+  {
+    "origin": "KTI",
+    "destination": "AUH"
+  },
+  {
+    "origin": "KTI",
+    "destination": "BJS"
+  },
+  {
+    "origin": "KTI",
+    "destination": "BKK"
+  },
+  {
+    "origin": "KTI",
+    "destination": "CAN"
+  },
+  {
+    "origin": "KTI",
+    "destination": "CDG"
+  },
+  {
+    "origin": "KTI",
+    "destination": "CKG"
+  },
+  {
+    "origin": "KTI",
+    "destination": "DAD"
+  },
+  {
+    "origin": "KTI",
+    "destination": "DMK"
+  },
+  {
+    "origin": "KTI",
+    "destination": "DXB"
+  },
+  {
+    "origin": "KTI",
+    "destination": "FOC"
+  },
+  {
+    "origin": "KTI",
+    "destination": "GMP"
+  },
+  {
+    "origin": "KTI",
+    "destination": "HAN"
+  },
+  {
+    "origin": "KTI",
+    "destination": "HGH"
+  },
+  {
+    "origin": "KTI",
+    "destination": "HKG"
+  },
+  {
+    "origin": "KTI",
+    "destination": "ICN"
+  },
+  {
+    "origin": "KTI",
+    "destination": "KMG"
+  },
+  {
+    "origin": "KTI",
+    "destination": "KUL"
+  },
+  {
+    "origin": "KTI",
+    "destination": "NKG"
+  },
+  {
+    "origin": "KTI",
+    "destination": "NNG"
+  },
+  {
+    "origin": "KTI",
+    "destination": "PEK"
+  },
+  {
+    "origin": "KTI",
+    "destination": "PVG"
+  },
+  {
+    "origin": "KTI",
+    "destination": "RGN"
+  },
+  {
+    "origin": "KTI",
+    "destination": "SEL"
+  },
+  {
+    "origin": "KTI",
+    "destination": "SGN"
+  },
+  {
+    "origin": "KTI",
+    "destination": "SHA"
+  },
+  {
+    "origin": "KTI",
+    "destination": "SIN"
+  },
+  {
+    "origin": "KTI",
+    "destination": "SSN"
+  },
+  {
+    "origin": "KTI",
+    "destination": "SVO"
+  },
+  {
+    "origin": "KTI",
+    "destination": "SZX"
+  },
+  {
+    "origin": "KTI",
+    "destination": "TPE"
+  },
+  {
+    "origin": "KTI",
+    "destination": "VIT"
+  },
+  {
+    "origin": "KTI",
+    "destination": "VTE"
+  },
+  {
+    "origin": "KTM",
+    "destination": "HAN"
+  },
+  {
+    "origin": "KUL",
+    "destination": "AUH"
+  },
+  {
+    "origin": "KUL",
+    "destination": "DAD"
+  },
+  {
+    "origin": "KUL",
+    "destination": "HAN"
+  },
+  {
+    "origin": "KUL",
+    "destination": "KTI"
+  },
+  {
+    "origin": "KUL",
+    "destination": "SGN"
+  },
+  {
+    "origin": "KWI",
+    "destination": "ALG"
+  },
+  {
+    "origin": "KZN",
+    "destination": "HAN"
+  },
+  {
+    "origin": "KZN",
+    "destination": "VKO"
+  },
+  {
+    "origin": "LAD",
+    "destination": "HAN"
+  },
+  {
+    "origin": "LAX",
+    "destination": "HAN"
+  },
+  {
+    "origin": "LAX",
+    "destination": "HND"
+  },
+  {
+    "origin": "LAX",
+    "destination": "NRT"
+  },
+  {
+    "origin": "LAX",
+    "destination": "SGN"
+  },
+  {
+    "origin": "LAX",
+    "destination": "TPE"
+  },
+  {
+    "origin": "LBJ",
+    "destination": "HAN"
+  },
+  {
+    "origin": "LGW",
+    "destination": "FRA"
+  },
+  {
+    "origin": "LGW",
+    "destination": "HAN"
+  },
+  {
+    "origin": "LGW",
+    "destination": "MAD"
+  },
+  {
+    "origin": "LGW",
+    "destination": "SGN"
+  },
+  {
+    "origin": "LHR",
+    "destination": "CDG"
+  },
+  {
+    "origin": "LHR",
+    "destination": "HAN"
+  },
+  {
+    "origin": "LHR",
+    "destination": "HEL"
+  },
+  {
+    "origin": "LHR",
+    "destination": "SGN"
+  },
+  {
+    "origin": "LIM",
+    "destination": "CDG"
+  },
+  {
+    "origin": "LIM",
+    "destination": "SCL"
+  },
+  {
+    "origin": "LPQ",
+    "destination": "HAN"
+  },
+  {
+    "origin": "LPQ",
+    "destination": "REP"
+  },
+  {
+    "origin": "LPQ",
+    "destination": "SAI"
+  },
+  {
+    "origin": "LUX",
+    "destination": "AMS"
+  },
+  {
+    "origin": "LUX",
+    "destination": "HAN"
+  },
+  {
+    "origin": "LYS",
+    "destination": "CDG"
+  },
+  {
+    "origin": "MAA",
+    "destination": "SIN"
+  },
+  {
+    "origin": "MAD",
+    "destination": "CDG"
+  },
+  {
+    "origin": "MAD",
+    "destination": "FRA"
+  },
+  {
+    "origin": "MAD",
+    "destination": "LGW"
+  },
+  {
+    "origin": "MAD",
+    "destination": "MUC"
+  },
+  {
+    "origin": "MAD",
+    "destination": "MXP"
+  },
+  {
+    "origin": "MEL",
+    "destination": "AKL"
+  },
+  {
+    "origin": "MEL",
+    "destination": "CBR"
+  },
+  {
+    "origin": "MEL",
+    "destination": "DAD"
+  },
+  {
+    "origin": "MEL",
+    "destination": "HAN"
+  },
+  {
+    "origin": "MEL",
+    "destination": "SGN"
+  },
+  {
+    "origin": "MFM",
+    "destination": "DAD"
+  },
+  {
+    "origin": "MFM",
+    "destination": "HAN"
+  },
+  {
+    "origin": "MFM",
+    "destination": "SGN"
+  },
+  {
+    "origin": "MIA",
+    "destination": "ATL"
+  },
+  {
+    "origin": "MNL",
+    "destination": "CEB"
+  },
+  {
+    "origin": "MNL",
+    "destination": "DAD"
+  },
+  {
+    "origin": "MNL",
+    "destination": "HAN"
+  },
+  {
+    "origin": "MNL",
+    "destination": "SGN"
+  },
+  {
+    "origin": "MPL",
+    "destination": "CDG"
+  },
+  {
+    "origin": "MRS",
+    "destination": "CDG"
+  },
+  {
+    "origin": "MSP",
+    "destination": "BOS"
+  },
+  {
+    "origin": "MSP",
+    "destination": "DEN"
+  },
+  {
+    "origin": "MSP",
+    "destination": "HND"
+  },
+  {
+    "origin": "MSP",
+    "destination": "NRT"
+  },
+  {
+    "origin": "MSP",
+    "destination": "ORD"
+  },
+  {
+    "origin": "MSP",
+    "destination": "PHL"
+  },
+  {
+    "origin": "MSP",
+    "destination": "STL"
+  },
+  {
+    "origin": "MSQ",
+    "destination": "HAN"
+  },
+  {
+    "origin": "MSQ",
+    "destination": "SVO"
+  },
+  {
+    "origin": "MSQ",
+    "destination": "VKO"
+  },
+  {
+    "origin": "MUC",
+    "destination": "FCO"
+  },
+  {
+    "origin": "MUC",
+    "destination": "HAN"
+  },
+  {
+    "origin": "MUC",
+    "destination": "HEL"
+  },
+  {
+    "origin": "MUC",
+    "destination": "SGN"
+  },
+  {
+    "origin": "MVD",
+    "destination": "HAN"
+  },
+  {
+    "origin": "MWX",
+    "destination": "DAD"
+  },
+  {
+    "origin": "MXP",
+    "destination": "CIA"
+  },
+  {
+    "origin": "MXP",
+    "destination": "HAN"
+  },
+  {
+    "origin": "MXP",
+    "destination": "SGN"
+  },
+  {
+    "origin": "NBO",
+    "destination": "BKK"
+  },
+  {
+    "origin": "NCE",
+    "destination": "CDG"
+  },
+  {
+    "origin": "NCE",
+    "destination": "ORY"
+  },
+  {
+    "origin": "NCE",
+    "destination": "TLL"
+  },
+  {
+    "origin": "NGO",
+    "destination": "CTS"
+  },
+  {
+    "origin": "NGO",
+    "destination": "HAN"
+  },
+  {
+    "origin": "NGO",
+    "destination": "NRT"
+  },
+  {
+    "origin": "NGO",
+    "destination": "SGN"
+  },
+  {
+    "origin": "NGS",
+    "destination": "HAN"
+  },
+  {
+    "origin": "NGS",
+    "destination": "HND"
+  },
+  {
+    "origin": "NKG",
+    "destination": "HAN"
+  },
+  {
+    "origin": "NKG",
+    "destination": "KTI"
+  },
+  {
+    "origin": "NNG",
+    "destination": "HAN"
+  },
+  {
+    "origin": "NNG",
+    "destination": "KTI"
+  },
+  {
+    "origin": "NQZ",
+    "destination": "GYD"
+  },
+  {
+    "origin": "NQZ",
+    "destination": "HAN"
+  },
+  {
+    "origin": "NRT",
+    "destination": "ATL"
+  },
+  {
+    "origin": "NRT",
+    "destination": "CTS"
+  },
+  {
+    "origin": "NRT",
+    "destination": "DAD"
+  },
+  {
+    "origin": "NRT",
+    "destination": "DTW"
+  },
+  {
+    "origin": "NRT",
+    "destination": "FUK"
+  },
+  {
+    "origin": "NRT",
+    "destination": "HAN"
+  },
+  {
+    "origin": "NRT",
+    "destination": "HNL"
+  },
+  {
+    "origin": "NRT",
+    "destination": "ITM"
+  },
+  {
+    "origin": "NRT",
+    "destination": "JFK"
+  },
+  {
+    "origin": "NRT",
+    "destination": "LAX"
+  },
+  {
+    "origin": "NRT",
+    "destination": "MSP"
+  },
+  {
+    "origin": "NRT",
+    "destination": "NGO"
+  },
+  {
+    "origin": "NRT",
+    "destination": "OKA"
+  },
+  {
+    "origin": "NRT",
+    "destination": "PDX"
+  },
+  {
+    "origin": "NRT",
+    "destination": "SEA"
+  },
+  {
+    "origin": "NRT",
+    "destination": "SFO"
+  },
+  {
+    "origin": "NRT",
+    "destination": "SGN"
+  },
+  {
+    "origin": "NRT",
+    "destination": "SZX"
+  },
+  {
+    "origin": "NRT",
+    "destination": "VDO"
+  },
+  {
+    "origin": "NTE",
+    "destination": "CDG"
+  },
+  {
+    "origin": "NYC",
+    "destination": "GRU"
+  },
+  {
+    "origin": "NYC",
+    "destination": "SFO"
+  },
+  {
+    "origin": "NYC",
+    "destination": "WAS"
+  },
+  {
+    "origin": "OKA",
+    "destination": "HND"
+  },
+  {
+    "origin": "OKA",
+    "destination": "NRT"
+  },
+  {
+    "origin": "OKJ",
+    "destination": "HAN"
+  },
+  {
+    "origin": "ORD",
+    "destination": "MSP"
+  },
+  {
+    "origin": "ORY",
+    "destination": "ARN"
+  },
+  {
+    "origin": "ORY",
+    "destination": "HAN"
+  },
+  {
+    "origin": "ORY",
+    "destination": "NCE"
+  },
+  {
+    "origin": "OSL",
+    "destination": "CDG"
+  },
+  {
+    "origin": "OTP",
+    "destination": "HAN"
+  },
+  {
+    "origin": "PDX",
+    "destination": "NRT"
+  },
+  {
+    "origin": "PEK",
+    "destination": "CXR"
+  },
+  {
+    "origin": "PEK",
+    "destination": "DLC"
+  },
+  {
+    "origin": "PEK",
+    "destination": "HAN"
+  },
+  {
+    "origin": "PEK",
+    "destination": "KTI"
+  },
+  {
+    "origin": "PEK",
+    "destination": "SGN"
+  },
+  {
+    "origin": "PEK",
+    "destination": "SHA"
+  },
+  {
+    "origin": "PER",
+    "destination": "SGN"
+  },
+  {
+    "origin": "PHL",
+    "destination": "MSP"
+  },
+  {
+    "origin": "PIK",
+    "destination": "ORY"
+  },
+  {
+    "origin": "PKX",
+    "destination": "CAN"
+  },
+  {
+    "origin": "PKX",
+    "destination": "CTU"
+  },
+  {
+    "origin": "PKX",
+    "destination": "DLC"
+  },
+  {
+    "origin": "PKX",
+    "destination": "SGN"
+  },
+  {
+    "origin": "PKZ",
+    "destination": "HAN"
+  },
+  {
+    "origin": "PKZ",
+    "destination": "SGN"
+  },
+  {
+    "origin": "PKZ",
+    "destination": "VTE"
+  },
+  {
+    "origin": "PNH",
+    "destination": "BKK"
+  },
+  {
+    "origin": "PNH",
+    "destination": "DAD"
+  },
+  {
+    "origin": "PNH",
+    "destination": "HAN"
+  },
+  {
+    "origin": "PNH",
+    "destination": "MNL"
+  },
+  {
+    "origin": "PNH",
+    "destination": "REP"
+  },
+  {
+    "origin": "PNH",
+    "destination": "SGN"
+  },
+  {
+    "origin": "PNH",
+    "destination": "VTE"
+  },
+  {
+    "origin": "PQC",
+    "destination": "BMV"
+  },
+  {
+    "origin": "PQC",
+    "destination": "CXR"
+  },
+  {
+    "origin": "PQC",
+    "destination": "DAD"
+  },
+  {
+    "origin": "PQC",
+    "destination": "DLI"
+  },
+  {
+    "origin": "PQC",
+    "destination": "HAN"
+  },
+  {
+    "origin": "PQC",
+    "destination": "HPH"
+  },
+  {
+    "origin": "PQC",
+    "destination": "HUI"
+  },
+  {
+    "origin": "PQC",
+    "destination": "REP"
+  },
+  {
+    "origin": "PQC",
+    "destination": "SGN"
+  },
+  {
+    "origin": "PQC",
+    "destination": "SIN"
+  },
+  {
+    "origin": "PQC",
+    "destination": "THD"
+  },
+  {
+    "origin": "PQC",
+    "destination": "VCA"
+  },
+  {
+    "origin": "PQC",
+    "destination": "VII"
+  },
+  {
+    "origin": "PQC",
+    "destination": "VKG"
+  },
+  {
+    "origin": "PRG",
+    "destination": "FRA"
+  },
+  {
+    "origin": "PRG",
+    "destination": "HAN"
+  },
+  {
+    "origin": "PRG",
+    "destination": "ZRH"
+  },
+  {
+    "origin": "PUS",
+    "destination": "CXR"
+  },
+  {
+    "origin": "PUS",
+    "destination": "DAD"
+  },
+  {
+    "origin": "PUS",
+    "destination": "HAN"
+  },
+  {
+    "origin": "PUS",
+    "destination": "ICN"
+  },
+  {
+    "origin": "PUS",
+    "destination": "SEL"
+  },
+  {
+    "origin": "PUS",
+    "destination": "SGN"
+  },
+  {
+    "origin": "PVG",
+    "destination": "CTU"
+  },
+  {
+    "origin": "PVG",
+    "destination": "CXR"
+  },
+  {
+    "origin": "PVG",
+    "destination": "DAD"
+  },
+  {
+    "origin": "PVG",
+    "destination": "HAN"
+  },
+  {
+    "origin": "PVG",
+    "destination": "KTI"
+  },
+  {
+    "origin": "PVG",
+    "destination": "SGN"
+  },
+  {
+    "origin": "PVG",
+    "destination": "TSN"
+  },
+  {
+    "origin": "PVG",
+    "destination": "WUH"
+  },
+  {
+    "origin": "PXU",
+    "destination": "DAD"
+  },
+  {
+    "origin": "PXU",
+    "destination": "HAN"
+  },
+  {
+    "origin": "PXU",
+    "destination": "SGN"
+  },
+  {
+    "origin": "QXB",
+    "destination": "CDG"
+  },
+  {
+    "origin": "RBA",
+    "destination": "GVA"
+  },
+  {
+    "origin": "REP",
+    "destination": "DAD"
+  },
+  {
+    "origin": "REP",
+    "destination": "HAN"
+  },
+  {
+    "origin": "REP",
+    "destination": "KOS"
+  },
+  {
+    "origin": "REP",
+    "destination": "LPQ"
+  },
+  {
+    "origin": "REP",
+    "destination": "PNH"
+  },
+  {
+    "origin": "REP",
+    "destination": "PQC"
+  },
+  {
+    "origin": "REP",
+    "destination": "SGN"
+  },
+  {
+    "origin": "RGN",
+    "destination": "HAN"
+  },
+  {
+    "origin": "RGN",
+    "destination": "KTI"
+  },
+  {
+    "origin": "RGN",
+    "destination": "SGN"
+  },
+  {
+    "origin": "RMQ",
+    "destination": "SGN"
+  },
+  {
+    "origin": "RNS",
+    "destination": "CDG"
+  },
+  {
+    "origin": "ROS",
+    "destination": "MVD"
+  },
+  {
+    "origin": "RUH",
+    "destination": "AUH"
+  },
+  {
+    "origin": "RUH",
+    "destination": "BKK"
+  },
+  {
+    "origin": "RUH",
+    "destination": "DIA"
+  },
+  {
+    "origin": "RUH",
+    "destination": "HAN"
+  },
+  {
+    "origin": "SAI",
+    "destination": "DAD"
+  },
+  {
+    "origin": "SAI",
+    "destination": "HAN"
+  },
+  {
+    "origin": "SAI",
+    "destination": "LPQ"
+  },
+  {
+    "origin": "SAI",
+    "destination": "SGN"
+  },
+  {
+    "origin": "SCL",
+    "destination": "CDG"
+  },
+  {
+    "origin": "SCL",
+    "destination": "LIM"
+  },
+  {
+    "origin": "SCU",
+    "destination": "BUE"
+  },
+  {
+    "origin": "SCU",
+    "destination": "HAV"
+  },
+  {
+    "origin": "SCU",
+    "destination": "JFK"
+  },
+  {
+    "origin": "SDQ",
+    "destination": "CDG"
+  },
+  {
+    "origin": "SDQ",
+    "destination": "GIG"
+  },
+  {
+    "origin": "SEA",
+    "destination": "CUN"
+  },
+  {
+    "origin": "SEA",
+    "destination": "NRT"
+  },
+  {
+    "origin": "SEA",
+    "destination": "SGN"
+  },
+  {
+    "origin": "SEL",
+    "destination": "KTI"
+  },
+  {
+    "origin": "SEL",
+    "destination": "PUS"
+  },
+  {
+    "origin": "SEL",
+    "destination": "UBN"
+  },
+  {
+    "origin": "SFO",
+    "destination": "HAN"
+  },
+  {
+    "origin": "SFO",
+    "destination": "NRT"
+  },
+  {
+    "origin": "SFO",
+    "destination": "SGN"
+  },
+  {
+    "origin": "SFO",
+    "destination": "TPE"
+  },
+  {
+    "origin": "SFO",
+    "destination": "WAS"
+  },
+  {
+    "origin": "SGN",
+    "destination": "AUH"
+  },
+  {
+    "origin": "SGN",
+    "destination": "BJS"
+  },
+  {
+    "origin": "SGN",
+    "destination": "BKK"
+  },
+  {
+    "origin": "SGN",
+    "destination": "BMV"
+  },
+  {
+    "origin": "SGN",
+    "destination": "BOM"
+  },
+  {
+    "origin": "SGN",
+    "destination": "CAH"
+  },
+  {
+    "origin": "SGN",
+    "destination": "CAN"
+  },
+  {
+    "origin": "SGN",
+    "destination": "CDG"
+  },
+  {
+    "origin": "SGN",
+    "destination": "CGK"
+  },
+  {
+    "origin": "SGN",
+    "destination": "CMB"
+  },
+  {
+    "origin": "SGN",
+    "destination": "CPH"
+  },
+  {
+    "origin": "SGN",
+    "destination": "CTS"
+  },
+  {
+    "origin": "SGN",
+    "destination": "CTU"
+  },
+  {
+    "origin": "SGN",
+    "destination": "CXR"
+  },
+  {
+    "origin": "SGN",
+    "destination": "DAD"
+  },
+  {
+    "origin": "SGN",
+    "destination": "DEL"
+  },
+  {
+    "origin": "SGN",
+    "destination": "DIN"
+  },
+  {
+    "origin": "SGN",
+    "destination": "DLI"
+  },
+  {
+    "origin": "SGN",
+    "destination": "DME"
+  },
+  {
+    "origin": "SGN",
+    "destination": "DPS"
+  },
+  {
+    "origin": "SGN",
+    "destination": "FKS"
+  },
+  {
+    "origin": "SGN",
+    "destination": "FOC"
+  },
+  {
+    "origin": "SGN",
+    "destination": "FRA"
+  },
+  {
+    "origin": "SGN",
+    "destination": "FUK"
+  },
+  {
+    "origin": "SGN",
+    "destination": "GAY"
+  },
+  {
+    "origin": "SGN",
+    "destination": "HAN"
+  },
+  {
+    "origin": "SGN",
+    "destination": "HGH"
+  },
+  {
+    "origin": "SGN",
+    "destination": "HKG"
+  },
+  {
+    "origin": "SGN",
+    "destination": "HKT"
+  },
+  {
+    "origin": "SGN",
+    "destination": "HND"
+  },
+  {
+    "origin": "SGN",
+    "destination": "HPH"
+  },
+  {
+    "origin": "SGN",
+    "destination": "HUI"
+  },
+  {
+    "origin": "SGN",
+    "destination": "ICN"
+  },
+  {
+    "origin": "SGN",
+    "destination": "IST"
+  },
+  {
+    "origin": "SGN",
+    "destination": "JKT"
+  },
+  {
+    "origin": "SGN",
+    "destination": "KHH"
+  },
+  {
+    "origin": "SGN",
+    "destination": "KIX"
+  },
+  {
+    "origin": "SGN",
+    "destination": "KMG"
+  },
+  {
+    "origin": "SGN",
+    "destination": "KOS"
+  },
+  {
+    "origin": "SGN",
+    "destination": "KTI"
+  },
+  {
+    "origin": "SGN",
+    "destination": "KUL"
+  },
+  {
+    "origin": "SGN",
+    "destination": "LAX"
+  },
+  {
+    "origin": "SGN",
+    "destination": "LGW"
+  },
+  {
+    "origin": "SGN",
+    "destination": "LHR"
+  },
+  {
+    "origin": "SGN",
+    "destination": "MEL"
+  },
+  {
+    "origin": "SGN",
+    "destination": "MFM"
+  },
+  {
+    "origin": "SGN",
+    "destination": "MNL"
+  },
+  {
+    "origin": "SGN",
+    "destination": "MUC"
+  },
+  {
+    "origin": "SGN",
+    "destination": "MXP"
+  },
+  {
+    "origin": "SGN",
+    "destination": "NGO"
+  },
+  {
+    "origin": "SGN",
+    "destination": "NRT"
+  },
+  {
+    "origin": "SGN",
+    "destination": "PEK"
+  },
+  {
+    "origin": "SGN",
+    "destination": "PER"
+  },
+  {
+    "origin": "SGN",
+    "destination": "PKX"
+  },
+  {
+    "origin": "SGN",
+    "destination": "PKZ"
+  },
+  {
+    "origin": "SGN",
+    "destination": "PNH"
+  },
+  {
+    "origin": "SGN",
+    "destination": "PQC"
+  },
+  {
+    "origin": "SGN",
+    "destination": "PUS"
+  },
+  {
+    "origin": "SGN",
+    "destination": "PVG"
+  },
+  {
+    "origin": "SGN",
+    "destination": "PXU"
+  },
+  {
+    "origin": "SGN",
+    "destination": "REP"
+  },
+  {
+    "origin": "SGN",
+    "destination": "RGN"
+  },
+  {
+    "origin": "SGN",
+    "destination": "RMQ"
+  },
+  {
+    "origin": "SGN",
+    "destination": "SAI"
+  },
+  {
+    "origin": "SGN",
+    "destination": "SEA"
+  },
+  {
+    "origin": "SGN",
+    "destination": "SFO"
+  },
+  {
+    "origin": "SGN",
+    "destination": "SIN"
+  },
+  {
+    "origin": "SGN",
+    "destination": "SUB"
+  },
+  {
+    "origin": "SGN",
+    "destination": "SVO"
+  },
+  {
+    "origin": "SGN",
+    "destination": "SYD"
+  },
+  {
+    "origin": "SGN",
+    "destination": "SZX"
+  },
+  {
+    "origin": "SGN",
+    "destination": "TBB"
+  },
+  {
+    "origin": "SGN",
+    "destination": "THD"
+  },
+  {
+    "origin": "SGN",
+    "destination": "TPE"
+  },
+  {
+    "origin": "SGN",
+    "destination": "UIH"
+  },
+  {
+    "origin": "SGN",
+    "destination": "VCA"
+  },
+  {
+    "origin": "SGN",
+    "destination": "VCL"
+  },
+  {
+    "origin": "SGN",
+    "destination": "VCS"
+  },
+  {
+    "origin": "SGN",
+    "destination": "VDH"
+  },
+  {
+    "origin": "SGN",
+    "destination": "VDO"
+  },
+  {
+    "origin": "SGN",
+    "destination": "VII"
+  },
+  {
+    "origin": "SGN",
+    "destination": "VKG"
+  },
+  {
+    "origin": "SGN",
+    "destination": "VTE"
+  },
+  {
+    "origin": "SGN",
+    "destination": "XMN"
+  },
+  {
+    "origin": "SHA",
+    "destination": "KMG"
+  },
+  {
+    "origin": "SHA",
+    "destination": "KTI"
+  },
+  {
+    "origin": "SIN",
+    "destination": "AUH"
+  },
+  {
+    "origin": "SIN",
+    "destination": "BOM"
+  },
+  {
+    "origin": "SIN",
+    "destination": "BWN"
+  },
+  {
+    "origin": "SIN",
+    "destination": "CGK"
+  },
+  {
+    "origin": "SIN",
+    "destination": "CXR"
+  },
+  {
+    "origin": "SIN",
+    "destination": "DAD"
+  },
+  {
+    "origin": "SIN",
+    "destination": "DEL"
+  },
+  {
+    "origin": "SIN",
+    "destination": "DPS"
+  },
+  {
+    "origin": "SIN",
+    "destination": "HAN"
+  },
+  {
+    "origin": "SIN",
+    "destination": "HND"
+  },
+  {
+    "origin": "SIN",
+    "destination": "JED"
+  },
+  {
+    "origin": "SIN",
+    "destination": "JKT"
+  },
+  {
+    "origin": "SIN",
+    "destination": "KTI"
+  },
+  {
+    "origin": "SIN",
+    "destination": "MAA"
+  },
+  {
+    "origin": "SIN",
+    "destination": "MNL"
+  },
+  {
+    "origin": "SIN",
+    "destination": "PQC"
+  },
+  {
+    "origin": "SIN",
+    "destination": "SGN"
+  },
+  {
+    "origin": "SOC",
+    "destination": "HAN"
+  },
+  {
+    "origin": "SOF",
+    "destination": "BOJ"
+  },
+  {
+    "origin": "SOF",
+    "destination": "HAN"
+  },
+  {
+    "origin": "SSG",
+    "destination": "HAN"
+  },
+  {
+    "origin": "SSN",
+    "destination": "HAN"
+  },
+  {
+    "origin": "SSN",
+    "destination": "KTI"
+  },
+  {
+    "origin": "SSN",
+    "destination": "PUS"
+  },
+  {
+    "origin": "SSN",
+    "destination": "UBN"
+  },
+  {
+    "origin": "STL",
+    "destination": "MSP"
+  },
+  {
+    "origin": "STN",
+    "destination": "HAN"
+  },
+  {
+    "origin": "SUB",
+    "destination": "CGK"
+  },
+  {
+    "origin": "SUB",
+    "destination": "SGN"
+  },
+  {
+    "origin": "SVO",
+    "destination": "HAN"
+  },
+  {
+    "origin": "SVO",
+    "destination": "KTI"
+  },
+  {
+    "origin": "SVO",
+    "destination": "MSQ"
+  },
+  {
+    "origin": "SVO",
+    "destination": "SGN"
+  },
+  {
+    "origin": "SYD",
+    "destination": "CBR"
+  },
+  {
+    "origin": "SYD",
+    "destination": "HAN"
+  },
+  {
+    "origin": "SYD",
+    "destination": "SGN"
+  },
+  {
+    "origin": "SZX",
+    "destination": "HAN"
+  },
+  {
+    "origin": "SZX",
+    "destination": "KTI"
+  },
+  {
+    "origin": "SZX",
+    "destination": "SGN"
+  },
+  {
+    "origin": "TAK",
+    "destination": "HAN"
+  },
+  {
+    "origin": "TAS",
+    "destination": "EVN"
+  },
+  {
+    "origin": "TAS",
+    "destination": "HAN"
+  },
+  {
+    "origin": "TBB",
+    "destination": "HAN"
+  },
+  {
+    "origin": "TBB",
+    "destination": "SGN"
+  },
+  {
+    "origin": "TFU",
+    "destination": "HAN"
+  },
+  {
+    "origin": "THD",
+    "destination": "BMV"
+  },
+  {
+    "origin": "THD",
+    "destination": "DAD"
+  },
+  {
+    "origin": "THD",
+    "destination": "DLI"
+  },
+  {
+    "origin": "THD",
+    "destination": "PQC"
+  },
+  {
+    "origin": "THD",
+    "destination": "SGN"
+  },
+  {
+    "origin": "THR",
+    "destination": "IFN"
+  },
+  {
+    "origin": "TLL",
+    "destination": "HAN"
+  },
+  {
+    "origin": "TLL",
+    "destination": "NCE"
+  },
+  {
+    "origin": "TLS",
+    "destination": "CDG"
+  },
+  {
+    "origin": "TLV",
+    "destination": "BKK"
+  },
+  {
+    "origin": "TLV",
+    "destination": "HKG"
+  },
+  {
+    "origin": "TOY",
+    "destination": "HND"
+  },
+  {
+    "origin": "TPE",
+    "destination": "DAD"
+  },
+  {
+    "origin": "TPE",
+    "destination": "HAN"
+  },
+  {
+    "origin": "TPE",
+    "destination": "JFK"
+  },
+  {
+    "origin": "TPE",
+    "destination": "KTI"
+  },
+  {
+    "origin": "TPE",
+    "destination": "LAX"
+  },
+  {
+    "origin": "TPE",
+    "destination": "SFO"
+  },
+  {
+    "origin": "TPE",
+    "destination": "SGN"
+  },
+  {
+    "origin": "TPE",
+    "destination": "YVR"
+  },
+  {
+    "origin": "TSN",
+    "destination": "CXR"
+  },
+  {
+    "origin": "TSN",
+    "destination": "HAN"
+  },
+  {
+    "origin": "TSN",
+    "destination": "PVG"
+  },
+  {
+    "origin": "TYO",
+    "destination": "ATL"
+  },
+  {
+    "origin": "UBN",
+    "destination": "DUB"
+  },
+  {
+    "origin": "UBN",
+    "destination": "HAN"
+  },
+  {
+    "origin": "UIH",
+    "destination": "HAN"
+  },
+  {
+    "origin": "UIH",
+    "destination": "SGN"
+  },
+  {
+    "origin": "USM",
+    "destination": "BKK"
+  },
+  {
+    "origin": "UTH",
+    "destination": "DMK"
+  },
+  {
+    "origin": "UTH",
+    "destination": "HAN"
+  },
+  {
+    "origin": "VCA",
+    "destination": "BMV"
+  },
+  {
+    "origin": "VCA",
+    "destination": "DAD"
+  },
+  {
+    "origin": "VCA",
+    "destination": "DLI"
+  },
+  {
+    "origin": "VCA",
+    "destination": "HAN"
+  },
+  {
+    "origin": "VCA",
+    "destination": "HPH"
+  },
+  {
+    "origin": "VCA",
+    "destination": "PQC"
+  },
+  {
+    "origin": "VCA",
+    "destination": "SGN"
+  },
+  {
+    "origin": "VCA",
+    "destination": "VCS"
+  },
+  {
+    "origin": "VCL",
+    "destination": "BMV"
+  },
+  {
+    "origin": "VCL",
+    "destination": "HAN"
+  },
+  {
+    "origin": "VCL",
+    "destination": "SGN"
+  },
+  {
+    "origin": "VCS",
+    "destination": "SGN"
+  },
+  {
+    "origin": "VCS",
+    "destination": "VCA"
+  },
+  {
+    "origin": "VDH",
+    "destination": "HAN"
+  },
+  {
+    "origin": "VDH",
+    "destination": "SGN"
+  },
+  {
+    "origin": "VDO",
+    "destination": "DAD"
+  },
+  {
+    "origin": "VDO",
+    "destination": "SGN"
+  },
+  {
+    "origin": "VIE",
+    "destination": "BRU"
+  },
+  {
+    "origin": "VIE",
+    "destination": "CDG"
+  },
+  {
+    "origin": "VIE",
+    "destination": "FCO"
+  },
+  {
+    "origin": "VII",
+    "destination": "BMV"
+  },
+  {
+    "origin": "VII",
+    "destination": "CXR"
+  },
+  {
+    "origin": "VII",
+    "destination": "DAD"
+  },
+  {
+    "origin": "VII",
+    "destination": "DLI"
+  },
+  {
+    "origin": "VII",
+    "destination": "HAN"
+  },
+  {
+    "origin": "VII",
+    "destination": "PQC"
+  },
+  {
+    "origin": "VII",
+    "destination": "SGN"
+  },
+  {
+    "origin": "VII",
+    "destination": "VTE"
+  },
+  {
+    "origin": "VKG",
+    "destination": "PQC"
+  },
+  {
+    "origin": "VKG",
+    "destination": "SGN"
+  },
+  {
+    "origin": "VKO",
+    "destination": "GYD"
+  },
+  {
+    "origin": "VKO",
+    "destination": "HAN"
+  },
+  {
+    "origin": "VKO",
+    "destination": "KZN"
+  },
+  {
+    "origin": "VKO",
+    "destination": "MSQ"
+  },
+  {
+    "origin": "VKO",
+    "destination": "ORY"
+  },
+  {
+    "origin": "VLC",
+    "destination": "CDG"
+  },
+  {
+    "origin": "VLN",
+    "destination": "CDG"
+  },
+  {
+    "origin": "VNS",
+    "destination": "HAN"
+  },
+  {
+    "origin": "VTE",
+    "destination": "DMK"
+  },
+  {
+    "origin": "VTE",
+    "destination": "HAN"
+  },
+  {
+    "origin": "VTE",
+    "destination": "KTI"
+  },
+  {
+    "origin": "VTE",
+    "destination": "PKZ"
+  },
+  {
+    "origin": "VTE",
+    "destination": "PNH"
+  },
+  {
+    "origin": "VTE",
+    "destination": "SGN"
+  },
+  {
+    "origin": "VTE",
+    "destination": "VII"
+  },
+  {
+    "origin": "WAS",
+    "destination": "BOS"
+  },
+  {
+    "origin": "WAS",
+    "destination": "NYC"
+  },
+  {
+    "origin": "WAS",
+    "destination": "SFO"
+  },
+  {
+    "origin": "WAW",
+    "destination": "PRG"
+  },
+  {
+    "origin": "WLG",
+    "destination": "AKL"
+  },
+  {
+    "origin": "WLG",
+    "destination": "HAN"
+  },
+  {
+    "origin": "WUH",
+    "destination": "PVG"
+  },
+  {
+    "origin": "XMN",
+    "destination": "PKX"
+  },
+  {
+    "origin": "XMN",
+    "destination": "SGN"
+  },
+  {
+    "origin": "YIA",
+    "destination": "CGK"
+  },
+  {
+    "origin": "YOW",
+    "destination": "HAN"
+  },
+  {
+    "origin": "YVR",
+    "destination": "TPE"
+  },
+  {
+    "origin": "ZFQ",
+    "destination": "CDG"
+  },
+  {
+    "origin": "ZRH",
+    "destination": "BUD"
+  },
+  {
+    "origin": "ZRH",
+    "destination": "CDG"
+  },
+  {
+    "origin": "ZRH",
+    "destination": "HAN"
+  }
+]

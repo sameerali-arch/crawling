@@ -1,0 +1,6286 @@
+[
+  {
+    "origin": "Athens - ATH",
+    "destination": "Balikpapan - BPN"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Bangkok - BKK"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Cebu - CEB"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Chiang Mai - CNX"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Da Nang - DAD"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Davao - DVO"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Denpasar Bali - DPS"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Fuzhou - FOC"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Guangzhou - CAN"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Hangzhou - HGH"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Hanoi - HAN"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Ho Chi Minh City - SGN"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Hong Kong - HKG"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Jakarta - CGK"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Kota Kinabalu - BKI"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Langkawi - LGK"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Lombok - LOP"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Makassar - UPG"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Manado - MDC"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Manila - MNL"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Osaka - KIX"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Perth - PER"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Phuket - HKT"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Sapporo - CTS"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Semarang - SRG"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Seoul - ICN"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Surabaya - SUB"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Taipei - TPE"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Tokyo - HND"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Tokyo - NRT"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Vientiane - VTE"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Wuhan - WUH"
+  },
+  {
+    "origin": "Athens - ATH",
+    "destination": "Yogyakarta - YIA"
+  },
+  {
+    "origin": "Balikpapan - BPN",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Balikpapan - BPN",
+    "destination": "Bangkok - BKK"
+  },
+  {
+    "origin": "Balikpapan - BPN",
+    "destination": "Chiang Mai - CNX"
+  },
+  {
+    "origin": "Balikpapan - BPN",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Balikpapan - BPN",
+    "destination": "Da Nang - DAD"
+  },
+  {
+    "origin": "Balikpapan - BPN",
+    "destination": "Fuzhou - FOC"
+  },
+  {
+    "origin": "Balikpapan - BPN",
+    "destination": "Guangzhou - CAN"
+  },
+  {
+    "origin": "Balikpapan - BPN",
+    "destination": "Hangzhou - HGH"
+  },
+  {
+    "origin": "Balikpapan - BPN",
+    "destination": "Hanoi - HAN"
+  },
+  {
+    "origin": "Balikpapan - BPN",
+    "destination": "Ho Chi Minh City - SGN"
+  },
+  {
+    "origin": "Balikpapan - BPN",
+    "destination": "Hong Kong - HKG"
+  },
+  {
+    "origin": "Balikpapan - BPN",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Balikpapan - BPN",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Balikpapan - BPN",
+    "destination": "Langkawi - LGK"
+  },
+  {
+    "origin": "Balikpapan - BPN",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Balikpapan - BPN",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Balikpapan - BPN",
+    "destination": "Osaka - KIX"
+  },
+  {
+    "origin": "Balikpapan - BPN",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Balikpapan - BPN",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Balikpapan - BPN",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Balikpapan - BPN",
+    "destination": "Perth - PER"
+  },
+  {
+    "origin": "Balikpapan - BPN",
+    "destination": "Phuket - HKT"
+  },
+  {
+    "origin": "Balikpapan - BPN",
+    "destination": "Sapporo - CTS"
+  },
+  {
+    "origin": "Balikpapan - BPN",
+    "destination": "Seoul - ICN"
+  },
+  {
+    "origin": "Balikpapan - BPN",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Balikpapan - BPN",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Balikpapan - BPN",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Balikpapan - BPN",
+    "destination": "Taipei - TPE"
+  },
+  {
+    "origin": "Balikpapan - BPN",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Balikpapan - BPN",
+    "destination": "Tokyo - HND"
+  },
+  {
+    "origin": "Balikpapan - BPN",
+    "destination": "Tokyo - NRT"
+  },
+  {
+    "origin": "Balikpapan - BPN",
+    "destination": "Vientiane - VTE"
+  },
+  {
+    "origin": "Balikpapan - BPN",
+    "destination": "Visakhapatnam - VTZ"
+  },
+  {
+    "origin": "Balikpapan - BPN",
+    "destination": "Wuhan - WUH"
+  },
+  {
+    "origin": "Bangkok - BKK",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Bangkok - BKK",
+    "destination": "Balikpapan - BPN"
+  },
+  {
+    "origin": "Bangkok - BKK",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Bangkok - BKK",
+    "destination": "Denpasar Bali - DPS"
+  },
+  {
+    "origin": "Bangkok - BKK",
+    "destination": "Jakarta - CGK"
+  },
+  {
+    "origin": "Bangkok - BKK",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Bangkok - BKK",
+    "destination": "Kota Kinabalu - BKI"
+  },
+  {
+    "origin": "Bangkok - BKK",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Bangkok - BKK",
+    "destination": "Lombok - LOP"
+  },
+  {
+    "origin": "Bangkok - BKK",
+    "destination": "Makassar - UPG"
+  },
+  {
+    "origin": "Bangkok - BKK",
+    "destination": "Manado - MDC"
+  },
+  {
+    "origin": "Bangkok - BKK",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Bangkok - BKK",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Bangkok - BKK",
+    "destination": "Osaka - KIX"
+  },
+  {
+    "origin": "Bangkok - BKK",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Bangkok - BKK",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Bangkok - BKK",
+    "destination": "Perth - PER"
+  },
+  {
+    "origin": "Bangkok - BKK",
+    "destination": "Sapporo - CTS"
+  },
+  {
+    "origin": "Bangkok - BKK",
+    "destination": "Semarang - SRG"
+  },
+  {
+    "origin": "Bangkok - BKK",
+    "destination": "Seoul - ICN"
+  },
+  {
+    "origin": "Bangkok - BKK",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Bangkok - BKK",
+    "destination": "Surabaya - SUB"
+  },
+  {
+    "origin": "Bangkok - BKK",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Bangkok - BKK",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Bangkok - BKK",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Bangkok - BKK",
+    "destination": "Tokyo - HND"
+  },
+  {
+    "origin": "Bangkok - BKK",
+    "destination": "Tokyo - NRT"
+  },
+  {
+    "origin": "Bangkok - BKK",
+    "destination": "Yogyakarta - YIA"
+  },
+  {
+    "origin": "Cebu - CEB",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Cebu - CEB",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Cebu - CEB",
+    "destination": "Denpasar Bali - DPS"
+  },
+  {
+    "origin": "Cebu - CEB",
+    "destination": "Jakarta - CGK"
+  },
+  {
+    "origin": "Cebu - CEB",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Cebu - CEB",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Cebu - CEB",
+    "destination": "Langkawi - LGK"
+  },
+  {
+    "origin": "Cebu - CEB",
+    "destination": "Lombok - LOP"
+  },
+  {
+    "origin": "Cebu - CEB",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Cebu - CEB",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Cebu - CEB",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Cebu - CEB",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Cebu - CEB",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Cebu - CEB",
+    "destination": "Perth - PER"
+  },
+  {
+    "origin": "Cebu - CEB",
+    "destination": "Semarang - SRG"
+  },
+  {
+    "origin": "Cebu - CEB",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Cebu - CEB",
+    "destination": "Surabaya - SUB"
+  },
+  {
+    "origin": "Cebu - CEB",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Cebu - CEB",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Cebu - CEB",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Cebu - CEB",
+    "destination": "Visakhapatnam - VTZ"
+  },
+  {
+    "origin": "Cebu - CEB",
+    "destination": "Yogyakarta - YIA"
+  },
+  {
+    "origin": "Chiang Mai - CNX",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Chiang Mai - CNX",
+    "destination": "Balikpapan - BPN"
+  },
+  {
+    "origin": "Chiang Mai - CNX",
+    "destination": "Denpasar Bali - DPS"
+  },
+  {
+    "origin": "Chiang Mai - CNX",
+    "destination": "Jakarta - CGK"
+  },
+  {
+    "origin": "Chiang Mai - CNX",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Chiang Mai - CNX",
+    "destination": "Kota Kinabalu - BKI"
+  },
+  {
+    "origin": "Chiang Mai - CNX",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Chiang Mai - CNX",
+    "destination": "Lombok - LOP"
+  },
+  {
+    "origin": "Chiang Mai - CNX",
+    "destination": "Makassar - UPG"
+  },
+  {
+    "origin": "Chiang Mai - CNX",
+    "destination": "Manado - MDC"
+  },
+  {
+    "origin": "Chiang Mai - CNX",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Chiang Mai - CNX",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Chiang Mai - CNX",
+    "destination": "Osaka - KIX"
+  },
+  {
+    "origin": "Chiang Mai - CNX",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Chiang Mai - CNX",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Chiang Mai - CNX",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Chiang Mai - CNX",
+    "destination": "Perth - PER"
+  },
+  {
+    "origin": "Chiang Mai - CNX",
+    "destination": "Sapporo - CTS"
+  },
+  {
+    "origin": "Chiang Mai - CNX",
+    "destination": "Semarang - SRG"
+  },
+  {
+    "origin": "Chiang Mai - CNX",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Chiang Mai - CNX",
+    "destination": "Surabaya - SUB"
+  },
+  {
+    "origin": "Chiang Mai - CNX",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Chiang Mai - CNX",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Chiang Mai - CNX",
+    "destination": "Tokyo - HND"
+  },
+  {
+    "origin": "Chiang Mai - CNX",
+    "destination": "Tokyo - NRT"
+  },
+  {
+    "origin": "Chiang Mai - CNX",
+    "destination": "Yogyakarta - YIA"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Balikpapan - BPN"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Bangkok - BKK"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Cebu - CEB"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Da Nang - DAD"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Davao - DVO"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Denpasar Bali - DPS"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Fuzhou - FOC"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Guangzhou - CAN"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Hangzhou - HGH"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Hanoi - HAN"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Ho Chi Minh City - SGN"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Hong Kong - HKG"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Jakarta - CGK"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Kota Kinabalu - BKI"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Langkawi - LGK"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Lombok - LOP"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Makassar - UPG"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Manado - MDC"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Manila - MNL"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Osaka - KIX"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Perth - PER"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Phuket - HKT"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Sapporo - CTS"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Semarang - SRG"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Seoul - ICN"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Surabaya - SUB"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Taipei - TPE"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Tokyo - HND"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Tokyo - NRT"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Vientiane - VTE"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Wuhan - WUH"
+  },
+  {
+    "origin": "Coimbatore - CJB",
+    "destination": "Yogyakarta - YIA"
+  },
+  {
+    "origin": "Da Nang - DAD",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Da Nang - DAD",
+    "destination": "Balikpapan - BPN"
+  },
+  {
+    "origin": "Da Nang - DAD",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Da Nang - DAD",
+    "destination": "Denpasar Bali - DPS"
+  },
+  {
+    "origin": "Da Nang - DAD",
+    "destination": "Jakarta - CGK"
+  },
+  {
+    "origin": "Da Nang - DAD",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Da Nang - DAD",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Da Nang - DAD",
+    "destination": "Langkawi - LGK"
+  },
+  {
+    "origin": "Da Nang - DAD",
+    "destination": "Lombok - LOP"
+  },
+  {
+    "origin": "Da Nang - DAD",
+    "destination": "Makassar - UPG"
+  },
+  {
+    "origin": "Da Nang - DAD",
+    "destination": "Manado - MDC"
+  },
+  {
+    "origin": "Da Nang - DAD",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Da Nang - DAD",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Da Nang - DAD",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Da Nang - DAD",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Da Nang - DAD",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Da Nang - DAD",
+    "destination": "Perth - PER"
+  },
+  {
+    "origin": "Da Nang - DAD",
+    "destination": "Sapporo - CTS"
+  },
+  {
+    "origin": "Da Nang - DAD",
+    "destination": "Semarang - SRG"
+  },
+  {
+    "origin": "Da Nang - DAD",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Da Nang - DAD",
+    "destination": "Surabaya - SUB"
+  },
+  {
+    "origin": "Da Nang - DAD",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Da Nang - DAD",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Da Nang - DAD",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Da Nang - DAD",
+    "destination": "Tokyo - HND"
+  },
+  {
+    "origin": "Da Nang - DAD",
+    "destination": "Tokyo - NRT"
+  },
+  {
+    "origin": "Da Nang - DAD",
+    "destination": "Visakhapatnam - VTZ"
+  },
+  {
+    "origin": "Da Nang - DAD",
+    "destination": "Yogyakarta - YIA"
+  },
+  {
+    "origin": "Davao - DVO",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Davao - DVO",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Davao - DVO",
+    "destination": "Jakarta - CGK"
+  },
+  {
+    "origin": "Davao - DVO",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Davao - DVO",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Davao - DVO",
+    "destination": "Langkawi - LGK"
+  },
+  {
+    "origin": "Davao - DVO",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Davao - DVO",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Davao - DVO",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Davao - DVO",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Davao - DVO",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Davao - DVO",
+    "destination": "Perth - PER"
+  },
+  {
+    "origin": "Davao - DVO",
+    "destination": "Semarang - SRG"
+  },
+  {
+    "origin": "Davao - DVO",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Davao - DVO",
+    "destination": "Surabaya - SUB"
+  },
+  {
+    "origin": "Davao - DVO",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Davao - DVO",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Davao - DVO",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Davao - DVO",
+    "destination": "Visakhapatnam - VTZ"
+  },
+  {
+    "origin": "Davao - DVO",
+    "destination": "Yogyakarta - YIA"
+  },
+  {
+    "origin": "Denpasar Bali - DPS",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Denpasar Bali - DPS",
+    "destination": "Bangkok - BKK"
+  },
+  {
+    "origin": "Denpasar Bali - DPS",
+    "destination": "Cebu - CEB"
+  },
+  {
+    "origin": "Denpasar Bali - DPS",
+    "destination": "Chiang Mai - CNX"
+  },
+  {
+    "origin": "Denpasar Bali - DPS",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Denpasar Bali - DPS",
+    "destination": "Da Nang - DAD"
+  },
+  {
+    "origin": "Denpasar Bali - DPS",
+    "destination": "Fuzhou - FOC"
+  },
+  {
+    "origin": "Denpasar Bali - DPS",
+    "destination": "Guangzhou - CAN"
+  },
+  {
+    "origin": "Denpasar Bali - DPS",
+    "destination": "Hangzhou - HGH"
+  },
+  {
+    "origin": "Denpasar Bali - DPS",
+    "destination": "Hanoi - HAN"
+  },
+  {
+    "origin": "Denpasar Bali - DPS",
+    "destination": "Ho Chi Minh City - SGN"
+  },
+  {
+    "origin": "Denpasar Bali - DPS",
+    "destination": "Hong Kong - HKG"
+  },
+  {
+    "origin": "Denpasar Bali - DPS",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Denpasar Bali - DPS",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Denpasar Bali - DPS",
+    "destination": "Langkawi - LGK"
+  },
+  {
+    "origin": "Denpasar Bali - DPS",
+    "destination": "Manila - MNL"
+  },
+  {
+    "origin": "Denpasar Bali - DPS",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Denpasar Bali - DPS",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Denpasar Bali - DPS",
+    "destination": "Osaka - KIX"
+  },
+  {
+    "origin": "Denpasar Bali - DPS",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Denpasar Bali - DPS",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Denpasar Bali - DPS",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Denpasar Bali - DPS",
+    "destination": "Phuket - HKT"
+  },
+  {
+    "origin": "Denpasar Bali - DPS",
+    "destination": "Sapporo - CTS"
+  },
+  {
+    "origin": "Denpasar Bali - DPS",
+    "destination": "Seoul - ICN"
+  },
+  {
+    "origin": "Denpasar Bali - DPS",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Denpasar Bali - DPS",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Denpasar Bali - DPS",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Denpasar Bali - DPS",
+    "destination": "Taipei - TPE"
+  },
+  {
+    "origin": "Denpasar Bali - DPS",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Denpasar Bali - DPS",
+    "destination": "Tokyo - HND"
+  },
+  {
+    "origin": "Denpasar Bali - DPS",
+    "destination": "Tokyo - NRT"
+  },
+  {
+    "origin": "Denpasar Bali - DPS",
+    "destination": "Vientiane - VTE"
+  },
+  {
+    "origin": "Denpasar Bali - DPS",
+    "destination": "Visakhapatnam - VTZ"
+  },
+  {
+    "origin": "Denpasar Bali - DPS",
+    "destination": "Wuhan - WUH"
+  },
+  {
+    "origin": "Fuzhou - FOC",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Fuzhou - FOC",
+    "destination": "Balikpapan - BPN"
+  },
+  {
+    "origin": "Fuzhou - FOC",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Fuzhou - FOC",
+    "destination": "Denpasar Bali - DPS"
+  },
+  {
+    "origin": "Fuzhou - FOC",
+    "destination": "Jakarta - CGK"
+  },
+  {
+    "origin": "Fuzhou - FOC",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Fuzhou - FOC",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Fuzhou - FOC",
+    "destination": "Langkawi - LGK"
+  },
+  {
+    "origin": "Fuzhou - FOC",
+    "destination": "Lombok - LOP"
+  },
+  {
+    "origin": "Fuzhou - FOC",
+    "destination": "Makassar - UPG"
+  },
+  {
+    "origin": "Fuzhou - FOC",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Fuzhou - FOC",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Fuzhou - FOC",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Fuzhou - FOC",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Fuzhou - FOC",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Fuzhou - FOC",
+    "destination": "Perth - PER"
+  },
+  {
+    "origin": "Fuzhou - FOC",
+    "destination": "Semarang - SRG"
+  },
+  {
+    "origin": "Fuzhou - FOC",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Fuzhou - FOC",
+    "destination": "Surabaya - SUB"
+  },
+  {
+    "origin": "Fuzhou - FOC",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Fuzhou - FOC",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Fuzhou - FOC",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Fuzhou - FOC",
+    "destination": "Visakhapatnam - VTZ"
+  },
+  {
+    "origin": "Fuzhou - FOC",
+    "destination": "Yogyakarta - YIA"
+  },
+  {
+    "origin": "Guangzhou - CAN",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Guangzhou - CAN",
+    "destination": "Balikpapan - BPN"
+  },
+  {
+    "origin": "Guangzhou - CAN",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Guangzhou - CAN",
+    "destination": "Denpasar Bali - DPS"
+  },
+  {
+    "origin": "Guangzhou - CAN",
+    "destination": "Jakarta - CGK"
+  },
+  {
+    "origin": "Guangzhou - CAN",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Guangzhou - CAN",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Guangzhou - CAN",
+    "destination": "Langkawi - LGK"
+  },
+  {
+    "origin": "Guangzhou - CAN",
+    "destination": "Lombok - LOP"
+  },
+  {
+    "origin": "Guangzhou - CAN",
+    "destination": "Makassar - UPG"
+  },
+  {
+    "origin": "Guangzhou - CAN",
+    "destination": "Manado - MDC"
+  },
+  {
+    "origin": "Guangzhou - CAN",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Guangzhou - CAN",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Guangzhou - CAN",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Guangzhou - CAN",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Guangzhou - CAN",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Guangzhou - CAN",
+    "destination": "Perth - PER"
+  },
+  {
+    "origin": "Guangzhou - CAN",
+    "destination": "Semarang - SRG"
+  },
+  {
+    "origin": "Guangzhou - CAN",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Guangzhou - CAN",
+    "destination": "Surabaya - SUB"
+  },
+  {
+    "origin": "Guangzhou - CAN",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Guangzhou - CAN",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Guangzhou - CAN",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Guangzhou - CAN",
+    "destination": "Visakhapatnam - VTZ"
+  },
+  {
+    "origin": "Guangzhou - CAN",
+    "destination": "Yogyakarta - YIA"
+  },
+  {
+    "origin": "Hangzhou - HGH",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Hangzhou - HGH",
+    "destination": "Balikpapan - BPN"
+  },
+  {
+    "origin": "Hangzhou - HGH",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Hangzhou - HGH",
+    "destination": "Denpasar Bali - DPS"
+  },
+  {
+    "origin": "Hangzhou - HGH",
+    "destination": "Jakarta - CGK"
+  },
+  {
+    "origin": "Hangzhou - HGH",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Hangzhou - HGH",
+    "destination": "Kota Kinabalu - BKI"
+  },
+  {
+    "origin": "Hangzhou - HGH",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Hangzhou - HGH",
+    "destination": "Langkawi - LGK"
+  },
+  {
+    "origin": "Hangzhou - HGH",
+    "destination": "Lombok - LOP"
+  },
+  {
+    "origin": "Hangzhou - HGH",
+    "destination": "Makassar - UPG"
+  },
+  {
+    "origin": "Hangzhou - HGH",
+    "destination": "Manado - MDC"
+  },
+  {
+    "origin": "Hangzhou - HGH",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Hangzhou - HGH",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Hangzhou - HGH",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Hangzhou - HGH",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Hangzhou - HGH",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Hangzhou - HGH",
+    "destination": "Perth - PER"
+  },
+  {
+    "origin": "Hangzhou - HGH",
+    "destination": "Semarang - SRG"
+  },
+  {
+    "origin": "Hangzhou - HGH",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Hangzhou - HGH",
+    "destination": "Surabaya - SUB"
+  },
+  {
+    "origin": "Hangzhou - HGH",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Hangzhou - HGH",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Hangzhou - HGH",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Hangzhou - HGH",
+    "destination": "Visakhapatnam - VTZ"
+  },
+  {
+    "origin": "Hangzhou - HGH",
+    "destination": "Yogyakarta - YIA"
+  },
+  {
+    "origin": "Hanoi - HAN",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Hanoi - HAN",
+    "destination": "Balikpapan - BPN"
+  },
+  {
+    "origin": "Hanoi - HAN",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Hanoi - HAN",
+    "destination": "Denpasar Bali - DPS"
+  },
+  {
+    "origin": "Hanoi - HAN",
+    "destination": "Jakarta - CGK"
+  },
+  {
+    "origin": "Hanoi - HAN",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Hanoi - HAN",
+    "destination": "Kota Kinabalu - BKI"
+  },
+  {
+    "origin": "Hanoi - HAN",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Hanoi - HAN",
+    "destination": "Langkawi - LGK"
+  },
+  {
+    "origin": "Hanoi - HAN",
+    "destination": "Lombok - LOP"
+  },
+  {
+    "origin": "Hanoi - HAN",
+    "destination": "Makassar - UPG"
+  },
+  {
+    "origin": "Hanoi - HAN",
+    "destination": "Manado - MDC"
+  },
+  {
+    "origin": "Hanoi - HAN",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Hanoi - HAN",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Hanoi - HAN",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Hanoi - HAN",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Hanoi - HAN",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Hanoi - HAN",
+    "destination": "Perth - PER"
+  },
+  {
+    "origin": "Hanoi - HAN",
+    "destination": "Semarang - SRG"
+  },
+  {
+    "origin": "Hanoi - HAN",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Hanoi - HAN",
+    "destination": "Surabaya - SUB"
+  },
+  {
+    "origin": "Hanoi - HAN",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Hanoi - HAN",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Hanoi - HAN",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Hanoi - HAN",
+    "destination": "Yogyakarta - YIA"
+  },
+  {
+    "origin": "Ho Chi Minh City - SGN",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Ho Chi Minh City - SGN",
+    "destination": "Balikpapan - BPN"
+  },
+  {
+    "origin": "Ho Chi Minh City - SGN",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Ho Chi Minh City - SGN",
+    "destination": "Denpasar Bali - DPS"
+  },
+  {
+    "origin": "Ho Chi Minh City - SGN",
+    "destination": "Jakarta - CGK"
+  },
+  {
+    "origin": "Ho Chi Minh City - SGN",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Ho Chi Minh City - SGN",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Ho Chi Minh City - SGN",
+    "destination": "Lombok - LOP"
+  },
+  {
+    "origin": "Ho Chi Minh City - SGN",
+    "destination": "Makassar - UPG"
+  },
+  {
+    "origin": "Ho Chi Minh City - SGN",
+    "destination": "Manado - MDC"
+  },
+  {
+    "origin": "Ho Chi Minh City - SGN",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Ho Chi Minh City - SGN",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Ho Chi Minh City - SGN",
+    "destination": "Osaka - KIX"
+  },
+  {
+    "origin": "Ho Chi Minh City - SGN",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Ho Chi Minh City - SGN",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Ho Chi Minh City - SGN",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Ho Chi Minh City - SGN",
+    "destination": "Perth - PER"
+  },
+  {
+    "origin": "Ho Chi Minh City - SGN",
+    "destination": "Sapporo - CTS"
+  },
+  {
+    "origin": "Ho Chi Minh City - SGN",
+    "destination": "Semarang - SRG"
+  },
+  {
+    "origin": "Ho Chi Minh City - SGN",
+    "destination": "Seoul - ICN"
+  },
+  {
+    "origin": "Ho Chi Minh City - SGN",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Ho Chi Minh City - SGN",
+    "destination": "Surabaya - SUB"
+  },
+  {
+    "origin": "Ho Chi Minh City - SGN",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Ho Chi Minh City - SGN",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Ho Chi Minh City - SGN",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Ho Chi Minh City - SGN",
+    "destination": "Tokyo - HND"
+  },
+  {
+    "origin": "Ho Chi Minh City - SGN",
+    "destination": "Tokyo - NRT"
+  },
+  {
+    "origin": "Ho Chi Minh City - SGN",
+    "destination": "Visakhapatnam - VTZ"
+  },
+  {
+    "origin": "Ho Chi Minh City - SGN",
+    "destination": "Yogyakarta - YIA"
+  },
+  {
+    "origin": "Hong Kong - HKG",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Hong Kong - HKG",
+    "destination": "Balikpapan - BPN"
+  },
+  {
+    "origin": "Hong Kong - HKG",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Hong Kong - HKG",
+    "destination": "Denpasar Bali - DPS"
+  },
+  {
+    "origin": "Hong Kong - HKG",
+    "destination": "Jakarta - CGK"
+  },
+  {
+    "origin": "Hong Kong - HKG",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Hong Kong - HKG",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Hong Kong - HKG",
+    "destination": "Langkawi - LGK"
+  },
+  {
+    "origin": "Hong Kong - HKG",
+    "destination": "Lombok - LOP"
+  },
+  {
+    "origin": "Hong Kong - HKG",
+    "destination": "Makassar - UPG"
+  },
+  {
+    "origin": "Hong Kong - HKG",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Hong Kong - HKG",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Hong Kong - HKG",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Hong Kong - HKG",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Hong Kong - HKG",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Hong Kong - HKG",
+    "destination": "Perth - PER"
+  },
+  {
+    "origin": "Hong Kong - HKG",
+    "destination": "Semarang - SRG"
+  },
+  {
+    "origin": "Hong Kong - HKG",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Hong Kong - HKG",
+    "destination": "Surabaya - SUB"
+  },
+  {
+    "origin": "Hong Kong - HKG",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Hong Kong - HKG",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Hong Kong - HKG",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Hong Kong - HKG",
+    "destination": "Visakhapatnam - VTZ"
+  },
+  {
+    "origin": "Hong Kong - HKG",
+    "destination": "Yogyakarta - YIA"
+  },
+  {
+    "origin": "Jakarta - CGK",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Jakarta - CGK",
+    "destination": "Bangkok - BKK"
+  },
+  {
+    "origin": "Jakarta - CGK",
+    "destination": "Cebu - CEB"
+  },
+  {
+    "origin": "Jakarta - CGK",
+    "destination": "Chiang Mai - CNX"
+  },
+  {
+    "origin": "Jakarta - CGK",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Jakarta - CGK",
+    "destination": "Da Nang - DAD"
+  },
+  {
+    "origin": "Jakarta - CGK",
+    "destination": "Davao - DVO"
+  },
+  {
+    "origin": "Jakarta - CGK",
+    "destination": "Fuzhou - FOC"
+  },
+  {
+    "origin": "Jakarta - CGK",
+    "destination": "Guangzhou - CAN"
+  },
+  {
+    "origin": "Jakarta - CGK",
+    "destination": "Hangzhou - HGH"
+  },
+  {
+    "origin": "Jakarta - CGK",
+    "destination": "Hanoi - HAN"
+  },
+  {
+    "origin": "Jakarta - CGK",
+    "destination": "Ho Chi Minh City - SGN"
+  },
+  {
+    "origin": "Jakarta - CGK",
+    "destination": "Hong Kong - HKG"
+  },
+  {
+    "origin": "Jakarta - CGK",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Jakarta - CGK",
+    "destination": "Kota Kinabalu - BKI"
+  },
+  {
+    "origin": "Jakarta - CGK",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Jakarta - CGK",
+    "destination": "Langkawi - LGK"
+  },
+  {
+    "origin": "Jakarta - CGK",
+    "destination": "Manado - MDC"
+  },
+  {
+    "origin": "Jakarta - CGK",
+    "destination": "Manila - MNL"
+  },
+  {
+    "origin": "Jakarta - CGK",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Jakarta - CGK",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Jakarta - CGK",
+    "destination": "Osaka - KIX"
+  },
+  {
+    "origin": "Jakarta - CGK",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Jakarta - CGK",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Jakarta - CGK",
+    "destination": "Perth - PER"
+  },
+  {
+    "origin": "Jakarta - CGK",
+    "destination": "Phuket - HKT"
+  },
+  {
+    "origin": "Jakarta - CGK",
+    "destination": "Sapporo - CTS"
+  },
+  {
+    "origin": "Jakarta - CGK",
+    "destination": "Seoul - ICN"
+  },
+  {
+    "origin": "Jakarta - CGK",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Jakarta - CGK",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Jakarta - CGK",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Jakarta - CGK",
+    "destination": "Taipei - TPE"
+  },
+  {
+    "origin": "Jakarta - CGK",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Jakarta - CGK",
+    "destination": "Tokyo - HND"
+  },
+  {
+    "origin": "Jakarta - CGK",
+    "destination": "Tokyo - NRT"
+  },
+  {
+    "origin": "Jakarta - CGK",
+    "destination": "Vientiane - VTE"
+  },
+  {
+    "origin": "Jakarta - CGK",
+    "destination": "Visakhapatnam - VTZ"
+  },
+  {
+    "origin": "Jakarta - CGK",
+    "destination": "Wuhan - WUH"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Balikpapan - BPN"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Bangkok - BKK"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Cebu - CEB"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Chiang Mai - CNX"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Da Nang - DAD"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Davao - DVO"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Denpasar Bali - DPS"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Fuzhou - FOC"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Guangzhou - CAN"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Hangzhou - HGH"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Hanoi - HAN"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Ho Chi Minh City - SGN"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Hong Kong - HKG"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Jakarta - CGK"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Kota Kinabalu - BKI"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Langkawi - LGK"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Lombok - LOP"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Makassar - UPG"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Manado - MDC"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Manila - MNL"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Osaka - KIX"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Perth - PER"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Phuket - HKT"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Sapporo - CTS"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Semarang - SRG"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Seoul - ICN"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Surabaya - SUB"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Taipei - TPE"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Tokyo - HND"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Tokyo - NRT"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Vientiane - VTE"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Wuhan - WUH"
+  },
+  {
+    "origin": "Jeddah - JED",
+    "destination": "Yogyakarta - YIA"
+  },
+  {
+    "origin": "Kota Kinabalu - BKI",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Kota Kinabalu - BKI",
+    "destination": "Bangkok - BKK"
+  },
+  {
+    "origin": "Kota Kinabalu - BKI",
+    "destination": "Chiang Mai - CNX"
+  },
+  {
+    "origin": "Kota Kinabalu - BKI",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Kota Kinabalu - BKI",
+    "destination": "Hangzhou - HGH"
+  },
+  {
+    "origin": "Kota Kinabalu - BKI",
+    "destination": "Hanoi - HAN"
+  },
+  {
+    "origin": "Kota Kinabalu - BKI",
+    "destination": "Jakarta - CGK"
+  },
+  {
+    "origin": "Kota Kinabalu - BKI",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Kota Kinabalu - BKI",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Kota Kinabalu - BKI",
+    "destination": "Langkawi - LGK"
+  },
+  {
+    "origin": "Kota Kinabalu - BKI",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Kota Kinabalu - BKI",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Kota Kinabalu - BKI",
+    "destination": "Osaka - KIX"
+  },
+  {
+    "origin": "Kota Kinabalu - BKI",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Kota Kinabalu - BKI",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Kota Kinabalu - BKI",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Kota Kinabalu - BKI",
+    "destination": "Perth - PER"
+  },
+  {
+    "origin": "Kota Kinabalu - BKI",
+    "destination": "Phuket - HKT"
+  },
+  {
+    "origin": "Kota Kinabalu - BKI",
+    "destination": "Sapporo - CTS"
+  },
+  {
+    "origin": "Kota Kinabalu - BKI",
+    "destination": "Semarang - SRG"
+  },
+  {
+    "origin": "Kota Kinabalu - BKI",
+    "destination": "Seoul - ICN"
+  },
+  {
+    "origin": "Kota Kinabalu - BKI",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Kota Kinabalu - BKI",
+    "destination": "Surabaya - SUB"
+  },
+  {
+    "origin": "Kota Kinabalu - BKI",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Kota Kinabalu - BKI",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Kota Kinabalu - BKI",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Kota Kinabalu - BKI",
+    "destination": "Tokyo - HND"
+  },
+  {
+    "origin": "Kota Kinabalu - BKI",
+    "destination": "Tokyo - NRT"
+  },
+  {
+    "origin": "Kota Kinabalu - BKI",
+    "destination": "Vientiane - VTE"
+  },
+  {
+    "origin": "Kota Kinabalu - BKI",
+    "destination": "Visakhapatnam - VTZ"
+  },
+  {
+    "origin": "Kota Kinabalu - BKI",
+    "destination": "Wuhan - WUH"
+  },
+  {
+    "origin": "Kota Kinabalu - BKI",
+    "destination": "Yogyakarta - YIA"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Balikpapan - BPN"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Bangkok - BKK"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Cebu - CEB"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Chiang Mai - CNX"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Da Nang - DAD"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Davao - DVO"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Denpasar Bali - DPS"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Fuzhou - FOC"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Guangzhou - CAN"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Hangzhou - HGH"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Hanoi - HAN"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Ho Chi Minh City - SGN"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Hong Kong - HKG"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Jakarta - CGK"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Kota Kinabalu - BKI"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Lombok - LOP"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Makassar - UPG"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Manado - MDC"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Manila - MNL"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Osaka - KIX"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Perth - PER"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Phuket - HKT"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Sapporo - CTS"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Semarang - SRG"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Seoul - ICN"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Surabaya - SUB"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Taipei - TPE"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Tokyo - HND"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Tokyo - NRT"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Vientiane - VTE"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Visakhapatnam - VTZ"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Wuhan - WUH"
+  },
+  {
+    "origin": "Kuala Lumpur - KUL",
+    "destination": "Yogyakarta - YIA"
+  },
+  {
+    "origin": "Langkawi - LGK",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Langkawi - LGK",
+    "destination": "Balikpapan - BPN"
+  },
+  {
+    "origin": "Langkawi - LGK",
+    "destination": "Cebu - CEB"
+  },
+  {
+    "origin": "Langkawi - LGK",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Langkawi - LGK",
+    "destination": "Da Nang - DAD"
+  },
+  {
+    "origin": "Langkawi - LGK",
+    "destination": "Davao - DVO"
+  },
+  {
+    "origin": "Langkawi - LGK",
+    "destination": "Denpasar Bali - DPS"
+  },
+  {
+    "origin": "Langkawi - LGK",
+    "destination": "Fuzhou - FOC"
+  },
+  {
+    "origin": "Langkawi - LGK",
+    "destination": "Guangzhou - CAN"
+  },
+  {
+    "origin": "Langkawi - LGK",
+    "destination": "Hangzhou - HGH"
+  },
+  {
+    "origin": "Langkawi - LGK",
+    "destination": "Hanoi - HAN"
+  },
+  {
+    "origin": "Langkawi - LGK",
+    "destination": "Hong Kong - HKG"
+  },
+  {
+    "origin": "Langkawi - LGK",
+    "destination": "Jakarta - CGK"
+  },
+  {
+    "origin": "Langkawi - LGK",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Langkawi - LGK",
+    "destination": "Kota Kinabalu - BKI"
+  },
+  {
+    "origin": "Langkawi - LGK",
+    "destination": "Lombok - LOP"
+  },
+  {
+    "origin": "Langkawi - LGK",
+    "destination": "Makassar - UPG"
+  },
+  {
+    "origin": "Langkawi - LGK",
+    "destination": "Manado - MDC"
+  },
+  {
+    "origin": "Langkawi - LGK",
+    "destination": "Manila - MNL"
+  },
+  {
+    "origin": "Langkawi - LGK",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Langkawi - LGK",
+    "destination": "Osaka - KIX"
+  },
+  {
+    "origin": "Langkawi - LGK",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Langkawi - LGK",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Langkawi - LGK",
+    "destination": "Perth - PER"
+  },
+  {
+    "origin": "Langkawi - LGK",
+    "destination": "Sapporo - CTS"
+  },
+  {
+    "origin": "Langkawi - LGK",
+    "destination": "Semarang - SRG"
+  },
+  {
+    "origin": "Langkawi - LGK",
+    "destination": "Seoul - ICN"
+  },
+  {
+    "origin": "Langkawi - LGK",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Langkawi - LGK",
+    "destination": "Surabaya - SUB"
+  },
+  {
+    "origin": "Langkawi - LGK",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Langkawi - LGK",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Langkawi - LGK",
+    "destination": "Taipei - TPE"
+  },
+  {
+    "origin": "Langkawi - LGK",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Langkawi - LGK",
+    "destination": "Tokyo - HND"
+  },
+  {
+    "origin": "Langkawi - LGK",
+    "destination": "Tokyo - NRT"
+  },
+  {
+    "origin": "Langkawi - LGK",
+    "destination": "Visakhapatnam - VTZ"
+  },
+  {
+    "origin": "Langkawi - LGK",
+    "destination": "Wuhan - WUH"
+  },
+  {
+    "origin": "Langkawi - LGK",
+    "destination": "Yogyakarta - YIA"
+  },
+  {
+    "origin": "Lombok - LOP",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Lombok - LOP",
+    "destination": "Bangkok - BKK"
+  },
+  {
+    "origin": "Lombok - LOP",
+    "destination": "Cebu - CEB"
+  },
+  {
+    "origin": "Lombok - LOP",
+    "destination": "Chiang Mai - CNX"
+  },
+  {
+    "origin": "Lombok - LOP",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Lombok - LOP",
+    "destination": "Da Nang - DAD"
+  },
+  {
+    "origin": "Lombok - LOP",
+    "destination": "Fuzhou - FOC"
+  },
+  {
+    "origin": "Lombok - LOP",
+    "destination": "Guangzhou - CAN"
+  },
+  {
+    "origin": "Lombok - LOP",
+    "destination": "Hangzhou - HGH"
+  },
+  {
+    "origin": "Lombok - LOP",
+    "destination": "Hanoi - HAN"
+  },
+  {
+    "origin": "Lombok - LOP",
+    "destination": "Ho Chi Minh City - SGN"
+  },
+  {
+    "origin": "Lombok - LOP",
+    "destination": "Hong Kong - HKG"
+  },
+  {
+    "origin": "Lombok - LOP",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Lombok - LOP",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Lombok - LOP",
+    "destination": "Langkawi - LGK"
+  },
+  {
+    "origin": "Lombok - LOP",
+    "destination": "Manila - MNL"
+  },
+  {
+    "origin": "Lombok - LOP",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Lombok - LOP",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Lombok - LOP",
+    "destination": "Osaka - KIX"
+  },
+  {
+    "origin": "Lombok - LOP",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Lombok - LOP",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Lombok - LOP",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Lombok - LOP",
+    "destination": "Phuket - HKT"
+  },
+  {
+    "origin": "Lombok - LOP",
+    "destination": "Sapporo - CTS"
+  },
+  {
+    "origin": "Lombok - LOP",
+    "destination": "Seoul - ICN"
+  },
+  {
+    "origin": "Lombok - LOP",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Lombok - LOP",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Lombok - LOP",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Lombok - LOP",
+    "destination": "Taipei - TPE"
+  },
+  {
+    "origin": "Lombok - LOP",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Lombok - LOP",
+    "destination": "Tokyo - HND"
+  },
+  {
+    "origin": "Lombok - LOP",
+    "destination": "Tokyo - NRT"
+  },
+  {
+    "origin": "Lombok - LOP",
+    "destination": "Vientiane - VTE"
+  },
+  {
+    "origin": "Lombok - LOP",
+    "destination": "Visakhapatnam - VTZ"
+  },
+  {
+    "origin": "Lombok - LOP",
+    "destination": "Wuhan - WUH"
+  },
+  {
+    "origin": "Makassar - UPG",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Makassar - UPG",
+    "destination": "Bangkok - BKK"
+  },
+  {
+    "origin": "Makassar - UPG",
+    "destination": "Chiang Mai - CNX"
+  },
+  {
+    "origin": "Makassar - UPG",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Makassar - UPG",
+    "destination": "Da Nang - DAD"
+  },
+  {
+    "origin": "Makassar - UPG",
+    "destination": "Fuzhou - FOC"
+  },
+  {
+    "origin": "Makassar - UPG",
+    "destination": "Guangzhou - CAN"
+  },
+  {
+    "origin": "Makassar - UPG",
+    "destination": "Hangzhou - HGH"
+  },
+  {
+    "origin": "Makassar - UPG",
+    "destination": "Hanoi - HAN"
+  },
+  {
+    "origin": "Makassar - UPG",
+    "destination": "Ho Chi Minh City - SGN"
+  },
+  {
+    "origin": "Makassar - UPG",
+    "destination": "Hong Kong - HKG"
+  },
+  {
+    "origin": "Makassar - UPG",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Makassar - UPG",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Makassar - UPG",
+    "destination": "Langkawi - LGK"
+  },
+  {
+    "origin": "Makassar - UPG",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Makassar - UPG",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Makassar - UPG",
+    "destination": "Osaka - KIX"
+  },
+  {
+    "origin": "Makassar - UPG",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Makassar - UPG",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Makassar - UPG",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Makassar - UPG",
+    "destination": "Phuket - HKT"
+  },
+  {
+    "origin": "Makassar - UPG",
+    "destination": "Sapporo - CTS"
+  },
+  {
+    "origin": "Makassar - UPG",
+    "destination": "Seoul - ICN"
+  },
+  {
+    "origin": "Makassar - UPG",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Makassar - UPG",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Makassar - UPG",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Makassar - UPG",
+    "destination": "Taipei - TPE"
+  },
+  {
+    "origin": "Makassar - UPG",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Makassar - UPG",
+    "destination": "Tokyo - HND"
+  },
+  {
+    "origin": "Makassar - UPG",
+    "destination": "Tokyo - NRT"
+  },
+  {
+    "origin": "Makassar - UPG",
+    "destination": "Vientiane - VTE"
+  },
+  {
+    "origin": "Makassar - UPG",
+    "destination": "Visakhapatnam - VTZ"
+  },
+  {
+    "origin": "Makassar - UPG",
+    "destination": "Wuhan - WUH"
+  },
+  {
+    "origin": "Manado - MDC",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Manado - MDC",
+    "destination": "Bangkok - BKK"
+  },
+  {
+    "origin": "Manado - MDC",
+    "destination": "Chiang Mai - CNX"
+  },
+  {
+    "origin": "Manado - MDC",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Manado - MDC",
+    "destination": "Da Nang - DAD"
+  },
+  {
+    "origin": "Manado - MDC",
+    "destination": "Guangzhou - CAN"
+  },
+  {
+    "origin": "Manado - MDC",
+    "destination": "Hangzhou - HGH"
+  },
+  {
+    "origin": "Manado - MDC",
+    "destination": "Hanoi - HAN"
+  },
+  {
+    "origin": "Manado - MDC",
+    "destination": "Ho Chi Minh City - SGN"
+  },
+  {
+    "origin": "Manado - MDC",
+    "destination": "Jakarta - CGK"
+  },
+  {
+    "origin": "Manado - MDC",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Manado - MDC",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Manado - MDC",
+    "destination": "Langkawi - LGK"
+  },
+  {
+    "origin": "Manado - MDC",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Manado - MDC",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Manado - MDC",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Manado - MDC",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Manado - MDC",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Manado - MDC",
+    "destination": "Perth - PER"
+  },
+  {
+    "origin": "Manado - MDC",
+    "destination": "Phuket - HKT"
+  },
+  {
+    "origin": "Manado - MDC",
+    "destination": "Sapporo - CTS"
+  },
+  {
+    "origin": "Manado - MDC",
+    "destination": "Seoul - ICN"
+  },
+  {
+    "origin": "Manado - MDC",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Manado - MDC",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Manado - MDC",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Manado - MDC",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Manado - MDC",
+    "destination": "Vientiane - VTE"
+  },
+  {
+    "origin": "Manado - MDC",
+    "destination": "Visakhapatnam - VTZ"
+  },
+  {
+    "origin": "Manado - MDC",
+    "destination": "Wuhan - WUH"
+  },
+  {
+    "origin": "Manado - MDC",
+    "destination": "Yogyakarta - YIA"
+  },
+  {
+    "origin": "Manila - MNL",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Manila - MNL",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Manila - MNL",
+    "destination": "Denpasar Bali - DPS"
+  },
+  {
+    "origin": "Manila - MNL",
+    "destination": "Jakarta - CGK"
+  },
+  {
+    "origin": "Manila - MNL",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Manila - MNL",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Manila - MNL",
+    "destination": "Langkawi - LGK"
+  },
+  {
+    "origin": "Manila - MNL",
+    "destination": "Lombok - LOP"
+  },
+  {
+    "origin": "Manila - MNL",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Manila - MNL",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Manila - MNL",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Manila - MNL",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Manila - MNL",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Manila - MNL",
+    "destination": "Perth - PER"
+  },
+  {
+    "origin": "Manila - MNL",
+    "destination": "Semarang - SRG"
+  },
+  {
+    "origin": "Manila - MNL",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Manila - MNL",
+    "destination": "Surabaya - SUB"
+  },
+  {
+    "origin": "Manila - MNL",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Manila - MNL",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Manila - MNL",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Manila - MNL",
+    "destination": "Visakhapatnam - VTZ"
+  },
+  {
+    "origin": "Manila - MNL",
+    "destination": "Yogyakarta - YIA"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Balikpapan - BPN"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Bangkok - BKK"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Cebu - CEB"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Chiang Mai - CNX"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Da Nang - DAD"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Davao - DVO"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Denpasar Bali - DPS"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Fuzhou - FOC"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Guangzhou - CAN"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Hangzhou - HGH"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Hanoi - HAN"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Ho Chi Minh City - SGN"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Hong Kong - HKG"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Jakarta - CGK"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Kota Kinabalu - BKI"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Lombok - LOP"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Makassar - UPG"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Manado - MDC"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Manila - MNL"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Osaka - KIX"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Perth - PER"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Sapporo - CTS"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Semarang - SRG"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Seoul - ICN"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Surabaya - SUB"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Taipei - TPE"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Tokyo - HND"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Tokyo - NRT"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Vientiane - VTE"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Visakhapatnam - VTZ"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Wuhan - WUH"
+  },
+  {
+    "origin": "Medan - KNO",
+    "destination": "Yogyakarta - YIA"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Balikpapan - BPN"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Bangkok - BKK"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Cebu - CEB"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Chiang Mai - CNX"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Da Nang - DAD"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Davao - DVO"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Denpasar Bali - DPS"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Fuzhou - FOC"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Guangzhou - CAN"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Hangzhou - HGH"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Hanoi - HAN"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Ho Chi Minh City - SGN"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Hong Kong - HKG"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Jakarta - CGK"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Kota Kinabalu - BKI"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Langkawi - LGK"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Lombok - LOP"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Makassar - UPG"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Manado - MDC"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Manila - MNL"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Osaka - KIX"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Phuket - HKT"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Sapporo - CTS"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Semarang - SRG"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Seoul - ICN"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Surabaya - SUB"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Taipei - TPE"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Tokyo - HND"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Tokyo - NRT"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Vientiane - VTE"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Visakhapatnam - VTZ"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Wuhan - WUH"
+  },
+  {
+    "origin": "Melbourne - MEL",
+    "destination": "Yogyakarta - YIA"
+  },
+  {
+    "origin": "Osaka - KIX",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Osaka - KIX",
+    "destination": "Balikpapan - BPN"
+  },
+  {
+    "origin": "Osaka - KIX",
+    "destination": "Bangkok - BKK"
+  },
+  {
+    "origin": "Osaka - KIX",
+    "destination": "Chiang Mai - CNX"
+  },
+  {
+    "origin": "Osaka - KIX",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Osaka - KIX",
+    "destination": "Denpasar Bali - DPS"
+  },
+  {
+    "origin": "Osaka - KIX",
+    "destination": "Ho Chi Minh City - SGN"
+  },
+  {
+    "origin": "Osaka - KIX",
+    "destination": "Jakarta - CGK"
+  },
+  {
+    "origin": "Osaka - KIX",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Osaka - KIX",
+    "destination": "Kota Kinabalu - BKI"
+  },
+  {
+    "origin": "Osaka - KIX",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Osaka - KIX",
+    "destination": "Langkawi - LGK"
+  },
+  {
+    "origin": "Osaka - KIX",
+    "destination": "Lombok - LOP"
+  },
+  {
+    "origin": "Osaka - KIX",
+    "destination": "Makassar - UPG"
+  },
+  {
+    "origin": "Osaka - KIX",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Osaka - KIX",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Osaka - KIX",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Osaka - KIX",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Osaka - KIX",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Osaka - KIX",
+    "destination": "Perth - PER"
+  },
+  {
+    "origin": "Osaka - KIX",
+    "destination": "Phuket - HKT"
+  },
+  {
+    "origin": "Osaka - KIX",
+    "destination": "Semarang - SRG"
+  },
+  {
+    "origin": "Osaka - KIX",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Osaka - KIX",
+    "destination": "Surabaya - SUB"
+  },
+  {
+    "origin": "Osaka - KIX",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Osaka - KIX",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Osaka - KIX",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Osaka - KIX",
+    "destination": "Vientiane - VTE"
+  },
+  {
+    "origin": "Osaka - KIX",
+    "destination": "Visakhapatnam - VTZ"
+  },
+  {
+    "origin": "Osaka - KIX",
+    "destination": "Yogyakarta - YIA"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Balikpapan - BPN"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Bangkok - BKK"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Cebu - CEB"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Chiang Mai - CNX"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Da Nang - DAD"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Davao - DVO"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Denpasar Bali - DPS"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Fuzhou - FOC"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Guangzhou - CAN"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Hangzhou - HGH"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Hanoi - HAN"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Ho Chi Minh City - SGN"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Hong Kong - HKG"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Kota Kinabalu - BKI"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Langkawi - LGK"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Lombok - LOP"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Makassar - UPG"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Manado - MDC"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Manila - MNL"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Osaka - KIX"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Perth - PER"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Phuket - HKT"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Sapporo - CTS"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Seoul - ICN"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Surabaya - SUB"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Taipei - TPE"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Tokyo - HND"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Tokyo - NRT"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Vientiane - VTE"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Visakhapatnam - VTZ"
+  },
+  {
+    "origin": "Palembang - PLM",
+    "destination": "Wuhan - WUH"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Balikpapan - BPN"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Bangkok - BKK"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Cebu - CEB"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Chiang Mai - CNX"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Da Nang - DAD"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Davao - DVO"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Denpasar Bali - DPS"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Fuzhou - FOC"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Guangzhou - CAN"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Hangzhou - HGH"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Hanoi - HAN"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Ho Chi Minh City - SGN"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Hong Kong - HKG"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Jakarta - CGK"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Kota Kinabalu - BKI"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Langkawi - LGK"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Lombok - LOP"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Makassar - UPG"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Manado - MDC"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Manila - MNL"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Osaka - KIX"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Perth - PER"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Phuket - HKT"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Sapporo - CTS"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Semarang - SRG"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Seoul - ICN"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Surabaya - SUB"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Taipei - TPE"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Tokyo - HND"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Tokyo - NRT"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Vientiane - VTE"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Visakhapatnam - VTZ"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Wuhan - WUH"
+  },
+  {
+    "origin": "Pekanbaru - PKU",
+    "destination": "Yogyakarta - YIA"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Balikpapan - BPN"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Cebu - CEB"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Chiang Mai - CNX"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Da Nang - DAD"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Davao - DVO"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Denpasar Bali - DPS"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Fuzhou - FOC"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Guangzhou - CAN"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Hangzhou - HGH"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Hanoi - HAN"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Ho Chi Minh City - SGN"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Hong Kong - HKG"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Jakarta - CGK"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Kota Kinabalu - BKI"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Lombok - LOP"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Makassar - UPG"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Manado - MDC"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Manila - MNL"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Osaka - KIX"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Perth - PER"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Sapporo - CTS"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Semarang - SRG"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Seoul - ICN"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Surabaya - SUB"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Taipei - TPE"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Tokyo - HND"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Tokyo - NRT"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Vientiane - VTE"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Visakhapatnam - VTZ"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Wuhan - WUH"
+  },
+  {
+    "origin": "Penang - PEN",
+    "destination": "Yogyakarta - YIA"
+  },
+  {
+    "origin": "Perth - PER",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Perth - PER",
+    "destination": "Balikpapan - BPN"
+  },
+  {
+    "origin": "Perth - PER",
+    "destination": "Bangkok - BKK"
+  },
+  {
+    "origin": "Perth - PER",
+    "destination": "Cebu - CEB"
+  },
+  {
+    "origin": "Perth - PER",
+    "destination": "Chiang Mai - CNX"
+  },
+  {
+    "origin": "Perth - PER",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Perth - PER",
+    "destination": "Da Nang - DAD"
+  },
+  {
+    "origin": "Perth - PER",
+    "destination": "Davao - DVO"
+  },
+  {
+    "origin": "Perth - PER",
+    "destination": "Fuzhou - FOC"
+  },
+  {
+    "origin": "Perth - PER",
+    "destination": "Guangzhou - CAN"
+  },
+  {
+    "origin": "Perth - PER",
+    "destination": "Hangzhou - HGH"
+  },
+  {
+    "origin": "Perth - PER",
+    "destination": "Hanoi - HAN"
+  },
+  {
+    "origin": "Perth - PER",
+    "destination": "Ho Chi Minh City - SGN"
+  },
+  {
+    "origin": "Perth - PER",
+    "destination": "Hong Kong - HKG"
+  },
+  {
+    "origin": "Perth - PER",
+    "destination": "Jakarta - CGK"
+  },
+  {
+    "origin": "Perth - PER",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Perth - PER",
+    "destination": "Kota Kinabalu - BKI"
+  },
+  {
+    "origin": "Perth - PER",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Perth - PER",
+    "destination": "Langkawi - LGK"
+  },
+  {
+    "origin": "Perth - PER",
+    "destination": "Manado - MDC"
+  },
+  {
+    "origin": "Perth - PER",
+    "destination": "Manila - MNL"
+  },
+  {
+    "origin": "Perth - PER",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Perth - PER",
+    "destination": "Osaka - KIX"
+  },
+  {
+    "origin": "Perth - PER",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Perth - PER",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Perth - PER",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Perth - PER",
+    "destination": "Phuket - HKT"
+  },
+  {
+    "origin": "Perth - PER",
+    "destination": "Sapporo - CTS"
+  },
+  {
+    "origin": "Perth - PER",
+    "destination": "Semarang - SRG"
+  },
+  {
+    "origin": "Perth - PER",
+    "destination": "Seoul - ICN"
+  },
+  {
+    "origin": "Perth - PER",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Perth - PER",
+    "destination": "Taipei - TPE"
+  },
+  {
+    "origin": "Perth - PER",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Perth - PER",
+    "destination": "Tokyo - HND"
+  },
+  {
+    "origin": "Perth - PER",
+    "destination": "Tokyo - NRT"
+  },
+  {
+    "origin": "Perth - PER",
+    "destination": "Vientiane - VTE"
+  },
+  {
+    "origin": "Perth - PER",
+    "destination": "Visakhapatnam - VTZ"
+  },
+  {
+    "origin": "Perth - PER",
+    "destination": "Wuhan - WUH"
+  },
+  {
+    "origin": "Phuket - HKT",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Phuket - HKT",
+    "destination": "Balikpapan - BPN"
+  },
+  {
+    "origin": "Phuket - HKT",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Phuket - HKT",
+    "destination": "Denpasar Bali - DPS"
+  },
+  {
+    "origin": "Phuket - HKT",
+    "destination": "Jakarta - CGK"
+  },
+  {
+    "origin": "Phuket - HKT",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Phuket - HKT",
+    "destination": "Kota Kinabalu - BKI"
+  },
+  {
+    "origin": "Phuket - HKT",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Phuket - HKT",
+    "destination": "Lombok - LOP"
+  },
+  {
+    "origin": "Phuket - HKT",
+    "destination": "Makassar - UPG"
+  },
+  {
+    "origin": "Phuket - HKT",
+    "destination": "Manado - MDC"
+  },
+  {
+    "origin": "Phuket - HKT",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Phuket - HKT",
+    "destination": "Osaka - KIX"
+  },
+  {
+    "origin": "Phuket - HKT",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Phuket - HKT",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Phuket - HKT",
+    "destination": "Perth - PER"
+  },
+  {
+    "origin": "Phuket - HKT",
+    "destination": "Sapporo - CTS"
+  },
+  {
+    "origin": "Phuket - HKT",
+    "destination": "Semarang - SRG"
+  },
+  {
+    "origin": "Phuket - HKT",
+    "destination": "Seoul - ICN"
+  },
+  {
+    "origin": "Phuket - HKT",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Phuket - HKT",
+    "destination": "Surabaya - SUB"
+  },
+  {
+    "origin": "Phuket - HKT",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Phuket - HKT",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Phuket - HKT",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Phuket - HKT",
+    "destination": "Tokyo - HND"
+  },
+  {
+    "origin": "Phuket - HKT",
+    "destination": "Tokyo - NRT"
+  },
+  {
+    "origin": "Phuket - HKT",
+    "destination": "Yogyakarta - YIA"
+  },
+  {
+    "origin": "Sapporo - CTS",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Sapporo - CTS",
+    "destination": "Balikpapan - BPN"
+  },
+  {
+    "origin": "Sapporo - CTS",
+    "destination": "Bangkok - BKK"
+  },
+  {
+    "origin": "Sapporo - CTS",
+    "destination": "Chiang Mai - CNX"
+  },
+  {
+    "origin": "Sapporo - CTS",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Sapporo - CTS",
+    "destination": "Da Nang - DAD"
+  },
+  {
+    "origin": "Sapporo - CTS",
+    "destination": "Denpasar Bali - DPS"
+  },
+  {
+    "origin": "Sapporo - CTS",
+    "destination": "Ho Chi Minh City - SGN"
+  },
+  {
+    "origin": "Sapporo - CTS",
+    "destination": "Jakarta - CGK"
+  },
+  {
+    "origin": "Sapporo - CTS",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Sapporo - CTS",
+    "destination": "Kota Kinabalu - BKI"
+  },
+  {
+    "origin": "Sapporo - CTS",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Sapporo - CTS",
+    "destination": "Langkawi - LGK"
+  },
+  {
+    "origin": "Sapporo - CTS",
+    "destination": "Lombok - LOP"
+  },
+  {
+    "origin": "Sapporo - CTS",
+    "destination": "Makassar - UPG"
+  },
+  {
+    "origin": "Sapporo - CTS",
+    "destination": "Manado - MDC"
+  },
+  {
+    "origin": "Sapporo - CTS",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Sapporo - CTS",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Sapporo - CTS",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Sapporo - CTS",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Sapporo - CTS",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Sapporo - CTS",
+    "destination": "Perth - PER"
+  },
+  {
+    "origin": "Sapporo - CTS",
+    "destination": "Phuket - HKT"
+  },
+  {
+    "origin": "Sapporo - CTS",
+    "destination": "Semarang - SRG"
+  },
+  {
+    "origin": "Sapporo - CTS",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Sapporo - CTS",
+    "destination": "Surabaya - SUB"
+  },
+  {
+    "origin": "Sapporo - CTS",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Sapporo - CTS",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Sapporo - CTS",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Sapporo - CTS",
+    "destination": "Vientiane - VTE"
+  },
+  {
+    "origin": "Sapporo - CTS",
+    "destination": "Visakhapatnam - VTZ"
+  },
+  {
+    "origin": "Sapporo - CTS",
+    "destination": "Yogyakarta - YIA"
+  },
+  {
+    "origin": "Semarang - SRG",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Semarang - SRG",
+    "destination": "Bangkok - BKK"
+  },
+  {
+    "origin": "Semarang - SRG",
+    "destination": "Cebu - CEB"
+  },
+  {
+    "origin": "Semarang - SRG",
+    "destination": "Chiang Mai - CNX"
+  },
+  {
+    "origin": "Semarang - SRG",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Semarang - SRG",
+    "destination": "Da Nang - DAD"
+  },
+  {
+    "origin": "Semarang - SRG",
+    "destination": "Davao - DVO"
+  },
+  {
+    "origin": "Semarang - SRG",
+    "destination": "Fuzhou - FOC"
+  },
+  {
+    "origin": "Semarang - SRG",
+    "destination": "Guangzhou - CAN"
+  },
+  {
+    "origin": "Semarang - SRG",
+    "destination": "Hangzhou - HGH"
+  },
+  {
+    "origin": "Semarang - SRG",
+    "destination": "Hanoi - HAN"
+  },
+  {
+    "origin": "Semarang - SRG",
+    "destination": "Ho Chi Minh City - SGN"
+  },
+  {
+    "origin": "Semarang - SRG",
+    "destination": "Hong Kong - HKG"
+  },
+  {
+    "origin": "Semarang - SRG",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Semarang - SRG",
+    "destination": "Kota Kinabalu - BKI"
+  },
+  {
+    "origin": "Semarang - SRG",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Semarang - SRG",
+    "destination": "Langkawi - LGK"
+  },
+  {
+    "origin": "Semarang - SRG",
+    "destination": "Manila - MNL"
+  },
+  {
+    "origin": "Semarang - SRG",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Semarang - SRG",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Semarang - SRG",
+    "destination": "Osaka - KIX"
+  },
+  {
+    "origin": "Semarang - SRG",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Semarang - SRG",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Semarang - SRG",
+    "destination": "Perth - PER"
+  },
+  {
+    "origin": "Semarang - SRG",
+    "destination": "Phuket - HKT"
+  },
+  {
+    "origin": "Semarang - SRG",
+    "destination": "Sapporo - CTS"
+  },
+  {
+    "origin": "Semarang - SRG",
+    "destination": "Seoul - ICN"
+  },
+  {
+    "origin": "Semarang - SRG",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Semarang - SRG",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Semarang - SRG",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Semarang - SRG",
+    "destination": "Taipei - TPE"
+  },
+  {
+    "origin": "Semarang - SRG",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Semarang - SRG",
+    "destination": "Tokyo - HND"
+  },
+  {
+    "origin": "Semarang - SRG",
+    "destination": "Tokyo - NRT"
+  },
+  {
+    "origin": "Semarang - SRG",
+    "destination": "Vientiane - VTE"
+  },
+  {
+    "origin": "Semarang - SRG",
+    "destination": "Visakhapatnam - VTZ"
+  },
+  {
+    "origin": "Semarang - SRG",
+    "destination": "Wuhan - WUH"
+  },
+  {
+    "origin": "Seoul - ICN",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Seoul - ICN",
+    "destination": "Balikpapan - BPN"
+  },
+  {
+    "origin": "Seoul - ICN",
+    "destination": "Bangkok - BKK"
+  },
+  {
+    "origin": "Seoul - ICN",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Seoul - ICN",
+    "destination": "Denpasar Bali - DPS"
+  },
+  {
+    "origin": "Seoul - ICN",
+    "destination": "Ho Chi Minh City - SGN"
+  },
+  {
+    "origin": "Seoul - ICN",
+    "destination": "Jakarta - CGK"
+  },
+  {
+    "origin": "Seoul - ICN",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Seoul - ICN",
+    "destination": "Kota Kinabalu - BKI"
+  },
+  {
+    "origin": "Seoul - ICN",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Seoul - ICN",
+    "destination": "Langkawi - LGK"
+  },
+  {
+    "origin": "Seoul - ICN",
+    "destination": "Lombok - LOP"
+  },
+  {
+    "origin": "Seoul - ICN",
+    "destination": "Makassar - UPG"
+  },
+  {
+    "origin": "Seoul - ICN",
+    "destination": "Manado - MDC"
+  },
+  {
+    "origin": "Seoul - ICN",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Seoul - ICN",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Seoul - ICN",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Seoul - ICN",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Seoul - ICN",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Seoul - ICN",
+    "destination": "Perth - PER"
+  },
+  {
+    "origin": "Seoul - ICN",
+    "destination": "Phuket - HKT"
+  },
+  {
+    "origin": "Seoul - ICN",
+    "destination": "Semarang - SRG"
+  },
+  {
+    "origin": "Seoul - ICN",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Seoul - ICN",
+    "destination": "Surabaya - SUB"
+  },
+  {
+    "origin": "Seoul - ICN",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Seoul - ICN",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Seoul - ICN",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Seoul - ICN",
+    "destination": "Visakhapatnam - VTZ"
+  },
+  {
+    "origin": "Seoul - ICN",
+    "destination": "Yogyakarta - YIA"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Balikpapan - BPN"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Bangkok - BKK"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Cebu - CEB"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Chiang Mai - CNX"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Da Nang - DAD"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Davao - DVO"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Denpasar Bali - DPS"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Fuzhou - FOC"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Guangzhou - CAN"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Hangzhou - HGH"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Hanoi - HAN"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Ho Chi Minh City - SGN"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Hong Kong - HKG"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Jakarta - CGK"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Kota Kinabalu - BKI"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Langkawi - LGK"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Lombok - LOP"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Makassar - UPG"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Manado - MDC"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Manila - MNL"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Osaka - KIX"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Perth - PER"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Phuket - HKT"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Sapporo - CTS"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Semarang - SRG"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Seoul - ICN"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Surabaya - SUB"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Taipei - TPE"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Tokyo - HND"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Tokyo - NRT"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Vientiane - VTE"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Visakhapatnam - VTZ"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Wuhan - WUH"
+  },
+  {
+    "origin": "Singapore - SIN",
+    "destination": "Yogyakarta - YIA"
+  },
+  {
+    "origin": "Surabaya - SUB",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Surabaya - SUB",
+    "destination": "Bangkok - BKK"
+  },
+  {
+    "origin": "Surabaya - SUB",
+    "destination": "Cebu - CEB"
+  },
+  {
+    "origin": "Surabaya - SUB",
+    "destination": "Chiang Mai - CNX"
+  },
+  {
+    "origin": "Surabaya - SUB",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Surabaya - SUB",
+    "destination": "Da Nang - DAD"
+  },
+  {
+    "origin": "Surabaya - SUB",
+    "destination": "Davao - DVO"
+  },
+  {
+    "origin": "Surabaya - SUB",
+    "destination": "Fuzhou - FOC"
+  },
+  {
+    "origin": "Surabaya - SUB",
+    "destination": "Guangzhou - CAN"
+  },
+  {
+    "origin": "Surabaya - SUB",
+    "destination": "Hangzhou - HGH"
+  },
+  {
+    "origin": "Surabaya - SUB",
+    "destination": "Hanoi - HAN"
+  },
+  {
+    "origin": "Surabaya - SUB",
+    "destination": "Ho Chi Minh City - SGN"
+  },
+  {
+    "origin": "Surabaya - SUB",
+    "destination": "Hong Kong - HKG"
+  },
+  {
+    "origin": "Surabaya - SUB",
+    "destination": "Jakarta - CGK"
+  },
+  {
+    "origin": "Surabaya - SUB",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Surabaya - SUB",
+    "destination": "Kota Kinabalu - BKI"
+  },
+  {
+    "origin": "Surabaya - SUB",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Surabaya - SUB",
+    "destination": "Langkawi - LGK"
+  },
+  {
+    "origin": "Surabaya - SUB",
+    "destination": "Manila - MNL"
+  },
+  {
+    "origin": "Surabaya - SUB",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Surabaya - SUB",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Surabaya - SUB",
+    "destination": "Osaka - KIX"
+  },
+  {
+    "origin": "Surabaya - SUB",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Surabaya - SUB",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Surabaya - SUB",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Surabaya - SUB",
+    "destination": "Phuket - HKT"
+  },
+  {
+    "origin": "Surabaya - SUB",
+    "destination": "Sapporo - CTS"
+  },
+  {
+    "origin": "Surabaya - SUB",
+    "destination": "Seoul - ICN"
+  },
+  {
+    "origin": "Surabaya - SUB",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Surabaya - SUB",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Surabaya - SUB",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Surabaya - SUB",
+    "destination": "Taipei - TPE"
+  },
+  {
+    "origin": "Surabaya - SUB",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Surabaya - SUB",
+    "destination": "Tokyo - HND"
+  },
+  {
+    "origin": "Surabaya - SUB",
+    "destination": "Tokyo - NRT"
+  },
+  {
+    "origin": "Surabaya - SUB",
+    "destination": "Vientiane - VTE"
+  },
+  {
+    "origin": "Surabaya - SUB",
+    "destination": "Visakhapatnam - VTZ"
+  },
+  {
+    "origin": "Surabaya - SUB",
+    "destination": "Wuhan - WUH"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Balikpapan - BPN"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Bangkok - BKK"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Cebu - CEB"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Chiang Mai - CNX"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Da Nang - DAD"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Davao - DVO"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Denpasar Bali - DPS"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Fuzhou - FOC"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Guangzhou - CAN"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Hangzhou - HGH"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Hanoi - HAN"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Ho Chi Minh City - SGN"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Hong Kong - HKG"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Jakarta - CGK"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Kota Kinabalu - BKI"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Langkawi - LGK"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Lombok - LOP"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Makassar - UPG"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Manado - MDC"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Manila - MNL"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Osaka - KIX"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Phuket - HKT"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Sapporo - CTS"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Semarang - SRG"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Seoul - ICN"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Surabaya - SUB"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Taipei - TPE"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Tokyo - HND"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Tokyo - NRT"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Vientiane - VTE"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Visakhapatnam - VTZ"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Wuhan - WUH"
+  },
+  {
+    "origin": "Sydney - SYD",
+    "destination": "Yogyakarta - YIA"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Balikpapan - BPN"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Bangkok - BKK"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Cebu - CEB"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Chiang Mai - CNX"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Da Nang - DAD"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Davao - DVO"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Denpasar Bali - DPS"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Fuzhou - FOC"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Guangzhou - CAN"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Hangzhou - HGH"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Hanoi - HAN"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Ho Chi Minh City - SGN"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Hong Kong - HKG"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Jakarta - CGK"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Kota Kinabalu - BKI"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Langkawi - LGK"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Lombok - LOP"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Makassar - UPG"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Manado - MDC"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Manila - MNL"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Osaka - KIX"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Phuket - HKT"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Sapporo - CTS"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Semarang - SRG"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Seoul - ICN"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Surabaya - SUB"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Taipei - TPE"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Tokyo - HND"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Tokyo - NRT"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Vientiane - VTE"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Visakhapatnam - VTZ"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Wuhan - WUH"
+  },
+  {
+    "origin": "Sydney - WSI",
+    "destination": "Yogyakarta - YIA"
+  },
+  {
+    "origin": "Taipei - TPE",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Taipei - TPE",
+    "destination": "Balikpapan - BPN"
+  },
+  {
+    "origin": "Taipei - TPE",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Taipei - TPE",
+    "destination": "Denpasar Bali - DPS"
+  },
+  {
+    "origin": "Taipei - TPE",
+    "destination": "Jakarta - CGK"
+  },
+  {
+    "origin": "Taipei - TPE",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Taipei - TPE",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Taipei - TPE",
+    "destination": "Langkawi - LGK"
+  },
+  {
+    "origin": "Taipei - TPE",
+    "destination": "Lombok - LOP"
+  },
+  {
+    "origin": "Taipei - TPE",
+    "destination": "Makassar - UPG"
+  },
+  {
+    "origin": "Taipei - TPE",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Taipei - TPE",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Taipei - TPE",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Taipei - TPE",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Taipei - TPE",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Taipei - TPE",
+    "destination": "Perth - PER"
+  },
+  {
+    "origin": "Taipei - TPE",
+    "destination": "Semarang - SRG"
+  },
+  {
+    "origin": "Taipei - TPE",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Taipei - TPE",
+    "destination": "Surabaya - SUB"
+  },
+  {
+    "origin": "Taipei - TPE",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Taipei - TPE",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Taipei - TPE",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Taipei - TPE",
+    "destination": "Visakhapatnam - VTZ"
+  },
+  {
+    "origin": "Taipei - TPE",
+    "destination": "Yogyakarta - YIA"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Balikpapan - BPN"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Bangkok - BKK"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Cebu - CEB"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Da Nang - DAD"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Davao - DVO"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Denpasar Bali - DPS"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Fuzhou - FOC"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Guangzhou - CAN"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Hangzhou - HGH"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Hanoi - HAN"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Ho Chi Minh City - SGN"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Hong Kong - HKG"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Jakarta - CGK"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Kota Kinabalu - BKI"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Langkawi - LGK"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Lombok - LOP"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Makassar - UPG"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Manado - MDC"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Manila - MNL"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Osaka - KIX"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Perth - PER"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Phuket - HKT"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Sapporo - CTS"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Semarang - SRG"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Seoul - ICN"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Surabaya - SUB"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Taipei - TPE"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Tokyo - HND"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Tokyo - NRT"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Vientiane - VTE"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Wuhan - WUH"
+  },
+  {
+    "origin": "Thiruvananthapuram - TRV",
+    "destination": "Yogyakarta - YIA"
+  },
+  {
+    "origin": "Tokyo - HND",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Tokyo - HND",
+    "destination": "Balikpapan - BPN"
+  },
+  {
+    "origin": "Tokyo - HND",
+    "destination": "Bangkok - BKK"
+  },
+  {
+    "origin": "Tokyo - HND",
+    "destination": "Chiang Mai - CNX"
+  },
+  {
+    "origin": "Tokyo - HND",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Tokyo - HND",
+    "destination": "Da Nang - DAD"
+  },
+  {
+    "origin": "Tokyo - HND",
+    "destination": "Denpasar Bali - DPS"
+  },
+  {
+    "origin": "Tokyo - HND",
+    "destination": "Ho Chi Minh City - SGN"
+  },
+  {
+    "origin": "Tokyo - HND",
+    "destination": "Jakarta - CGK"
+  },
+  {
+    "origin": "Tokyo - HND",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Tokyo - HND",
+    "destination": "Kota Kinabalu - BKI"
+  },
+  {
+    "origin": "Tokyo - HND",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Tokyo - HND",
+    "destination": "Langkawi - LGK"
+  },
+  {
+    "origin": "Tokyo - HND",
+    "destination": "Lombok - LOP"
+  },
+  {
+    "origin": "Tokyo - HND",
+    "destination": "Makassar - UPG"
+  },
+  {
+    "origin": "Tokyo - HND",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Tokyo - HND",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Tokyo - HND",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Tokyo - HND",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Tokyo - HND",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Tokyo - HND",
+    "destination": "Perth - PER"
+  },
+  {
+    "origin": "Tokyo - HND",
+    "destination": "Phuket - HKT"
+  },
+  {
+    "origin": "Tokyo - HND",
+    "destination": "Semarang - SRG"
+  },
+  {
+    "origin": "Tokyo - HND",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Tokyo - HND",
+    "destination": "Surabaya - SUB"
+  },
+  {
+    "origin": "Tokyo - HND",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Tokyo - HND",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Tokyo - HND",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Tokyo - HND",
+    "destination": "Vientiane - VTE"
+  },
+  {
+    "origin": "Tokyo - HND",
+    "destination": "Visakhapatnam - VTZ"
+  },
+  {
+    "origin": "Tokyo - HND",
+    "destination": "Yogyakarta - YIA"
+  },
+  {
+    "origin": "Tokyo - NRT",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Tokyo - NRT",
+    "destination": "Balikpapan - BPN"
+  },
+  {
+    "origin": "Tokyo - NRT",
+    "destination": "Bangkok - BKK"
+  },
+  {
+    "origin": "Tokyo - NRT",
+    "destination": "Chiang Mai - CNX"
+  },
+  {
+    "origin": "Tokyo - NRT",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Tokyo - NRT",
+    "destination": "Da Nang - DAD"
+  },
+  {
+    "origin": "Tokyo - NRT",
+    "destination": "Denpasar Bali - DPS"
+  },
+  {
+    "origin": "Tokyo - NRT",
+    "destination": "Ho Chi Minh City - SGN"
+  },
+  {
+    "origin": "Tokyo - NRT",
+    "destination": "Jakarta - CGK"
+  },
+  {
+    "origin": "Tokyo - NRT",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Tokyo - NRT",
+    "destination": "Kota Kinabalu - BKI"
+  },
+  {
+    "origin": "Tokyo - NRT",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Tokyo - NRT",
+    "destination": "Langkawi - LGK"
+  },
+  {
+    "origin": "Tokyo - NRT",
+    "destination": "Lombok - LOP"
+  },
+  {
+    "origin": "Tokyo - NRT",
+    "destination": "Makassar - UPG"
+  },
+  {
+    "origin": "Tokyo - NRT",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Tokyo - NRT",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Tokyo - NRT",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Tokyo - NRT",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Tokyo - NRT",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Tokyo - NRT",
+    "destination": "Perth - PER"
+  },
+  {
+    "origin": "Tokyo - NRT",
+    "destination": "Phuket - HKT"
+  },
+  {
+    "origin": "Tokyo - NRT",
+    "destination": "Semarang - SRG"
+  },
+  {
+    "origin": "Tokyo - NRT",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Tokyo - NRT",
+    "destination": "Surabaya - SUB"
+  },
+  {
+    "origin": "Tokyo - NRT",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Tokyo - NRT",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Tokyo - NRT",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Tokyo - NRT",
+    "destination": "Vientiane - VTE"
+  },
+  {
+    "origin": "Tokyo - NRT",
+    "destination": "Visakhapatnam - VTZ"
+  },
+  {
+    "origin": "Tokyo - NRT",
+    "destination": "Yogyakarta - YIA"
+  },
+  {
+    "origin": "Vientiane - VTE",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Vientiane - VTE",
+    "destination": "Balikpapan - BPN"
+  },
+  {
+    "origin": "Vientiane - VTE",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Vientiane - VTE",
+    "destination": "Denpasar Bali - DPS"
+  },
+  {
+    "origin": "Vientiane - VTE",
+    "destination": "Jakarta - CGK"
+  },
+  {
+    "origin": "Vientiane - VTE",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Vientiane - VTE",
+    "destination": "Kota Kinabalu - BKI"
+  },
+  {
+    "origin": "Vientiane - VTE",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Vientiane - VTE",
+    "destination": "Lombok - LOP"
+  },
+  {
+    "origin": "Vientiane - VTE",
+    "destination": "Makassar - UPG"
+  },
+  {
+    "origin": "Vientiane - VTE",
+    "destination": "Manado - MDC"
+  },
+  {
+    "origin": "Vientiane - VTE",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Vientiane - VTE",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Vientiane - VTE",
+    "destination": "Osaka - KIX"
+  },
+  {
+    "origin": "Vientiane - VTE",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Vientiane - VTE",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Vientiane - VTE",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Vientiane - VTE",
+    "destination": "Perth - PER"
+  },
+  {
+    "origin": "Vientiane - VTE",
+    "destination": "Sapporo - CTS"
+  },
+  {
+    "origin": "Vientiane - VTE",
+    "destination": "Semarang - SRG"
+  },
+  {
+    "origin": "Vientiane - VTE",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Vientiane - VTE",
+    "destination": "Surabaya - SUB"
+  },
+  {
+    "origin": "Vientiane - VTE",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Vientiane - VTE",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Vientiane - VTE",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Vientiane - VTE",
+    "destination": "Tokyo - HND"
+  },
+  {
+    "origin": "Vientiane - VTE",
+    "destination": "Tokyo - NRT"
+  },
+  {
+    "origin": "Vientiane - VTE",
+    "destination": "Yogyakarta - YIA"
+  },
+  {
+    "origin": "Visakhapatnam - VTZ",
+    "destination": "Balikpapan - BPN"
+  },
+  {
+    "origin": "Visakhapatnam - VTZ",
+    "destination": "Cebu - CEB"
+  },
+  {
+    "origin": "Visakhapatnam - VTZ",
+    "destination": "Da Nang - DAD"
+  },
+  {
+    "origin": "Visakhapatnam - VTZ",
+    "destination": "Davao - DVO"
+  },
+  {
+    "origin": "Visakhapatnam - VTZ",
+    "destination": "Denpasar Bali - DPS"
+  },
+  {
+    "origin": "Visakhapatnam - VTZ",
+    "destination": "Fuzhou - FOC"
+  },
+  {
+    "origin": "Visakhapatnam - VTZ",
+    "destination": "Guangzhou - CAN"
+  },
+  {
+    "origin": "Visakhapatnam - VTZ",
+    "destination": "Hangzhou - HGH"
+  },
+  {
+    "origin": "Visakhapatnam - VTZ",
+    "destination": "Ho Chi Minh City - SGN"
+  },
+  {
+    "origin": "Visakhapatnam - VTZ",
+    "destination": "Hong Kong - HKG"
+  },
+  {
+    "origin": "Visakhapatnam - VTZ",
+    "destination": "Jakarta - CGK"
+  },
+  {
+    "origin": "Visakhapatnam - VTZ",
+    "destination": "Kota Kinabalu - BKI"
+  },
+  {
+    "origin": "Visakhapatnam - VTZ",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Visakhapatnam - VTZ",
+    "destination": "Langkawi - LGK"
+  },
+  {
+    "origin": "Visakhapatnam - VTZ",
+    "destination": "Lombok - LOP"
+  },
+  {
+    "origin": "Visakhapatnam - VTZ",
+    "destination": "Makassar - UPG"
+  },
+  {
+    "origin": "Visakhapatnam - VTZ",
+    "destination": "Manado - MDC"
+  },
+  {
+    "origin": "Visakhapatnam - VTZ",
+    "destination": "Manila - MNL"
+  },
+  {
+    "origin": "Visakhapatnam - VTZ",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Visakhapatnam - VTZ",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Visakhapatnam - VTZ",
+    "destination": "Osaka - KIX"
+  },
+  {
+    "origin": "Visakhapatnam - VTZ",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Visakhapatnam - VTZ",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Visakhapatnam - VTZ",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Visakhapatnam - VTZ",
+    "destination": "Perth - PER"
+  },
+  {
+    "origin": "Visakhapatnam - VTZ",
+    "destination": "Sapporo - CTS"
+  },
+  {
+    "origin": "Visakhapatnam - VTZ",
+    "destination": "Semarang - SRG"
+  },
+  {
+    "origin": "Visakhapatnam - VTZ",
+    "destination": "Seoul - ICN"
+  },
+  {
+    "origin": "Visakhapatnam - VTZ",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Visakhapatnam - VTZ",
+    "destination": "Surabaya - SUB"
+  },
+  {
+    "origin": "Visakhapatnam - VTZ",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Visakhapatnam - VTZ",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Visakhapatnam - VTZ",
+    "destination": "Taipei - TPE"
+  },
+  {
+    "origin": "Visakhapatnam - VTZ",
+    "destination": "Tokyo - HND"
+  },
+  {
+    "origin": "Visakhapatnam - VTZ",
+    "destination": "Tokyo - NRT"
+  },
+  {
+    "origin": "Visakhapatnam - VTZ",
+    "destination": "Wuhan - WUH"
+  },
+  {
+    "origin": "Visakhapatnam - VTZ",
+    "destination": "Yogyakarta - YIA"
+  },
+  {
+    "origin": "Wuhan - WUH",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Wuhan - WUH",
+    "destination": "Balikpapan - BPN"
+  },
+  {
+    "origin": "Wuhan - WUH",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Wuhan - WUH",
+    "destination": "Denpasar Bali - DPS"
+  },
+  {
+    "origin": "Wuhan - WUH",
+    "destination": "Jakarta - CGK"
+  },
+  {
+    "origin": "Wuhan - WUH",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Wuhan - WUH",
+    "destination": "Kota Kinabalu - BKI"
+  },
+  {
+    "origin": "Wuhan - WUH",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Wuhan - WUH",
+    "destination": "Langkawi - LGK"
+  },
+  {
+    "origin": "Wuhan - WUH",
+    "destination": "Lombok - LOP"
+  },
+  {
+    "origin": "Wuhan - WUH",
+    "destination": "Makassar - UPG"
+  },
+  {
+    "origin": "Wuhan - WUH",
+    "destination": "Manado - MDC"
+  },
+  {
+    "origin": "Wuhan - WUH",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Wuhan - WUH",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Wuhan - WUH",
+    "destination": "Palembang - PLM"
+  },
+  {
+    "origin": "Wuhan - WUH",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Wuhan - WUH",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Wuhan - WUH",
+    "destination": "Perth - PER"
+  },
+  {
+    "origin": "Wuhan - WUH",
+    "destination": "Semarang - SRG"
+  },
+  {
+    "origin": "Wuhan - WUH",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Wuhan - WUH",
+    "destination": "Surabaya - SUB"
+  },
+  {
+    "origin": "Wuhan - WUH",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Wuhan - WUH",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Wuhan - WUH",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Wuhan - WUH",
+    "destination": "Visakhapatnam - VTZ"
+  },
+  {
+    "origin": "Wuhan - WUH",
+    "destination": "Yogyakarta - YIA"
+  },
+  {
+    "origin": "Yogyakarta - YIA",
+    "destination": "Athens - ATH"
+  },
+  {
+    "origin": "Yogyakarta - YIA",
+    "destination": "Bangkok - BKK"
+  },
+  {
+    "origin": "Yogyakarta - YIA",
+    "destination": "Cebu - CEB"
+  },
+  {
+    "origin": "Yogyakarta - YIA",
+    "destination": "Chiang Mai - CNX"
+  },
+  {
+    "origin": "Yogyakarta - YIA",
+    "destination": "Coimbatore - CJB"
+  },
+  {
+    "origin": "Yogyakarta - YIA",
+    "destination": "Da Nang - DAD"
+  },
+  {
+    "origin": "Yogyakarta - YIA",
+    "destination": "Davao - DVO"
+  },
+  {
+    "origin": "Yogyakarta - YIA",
+    "destination": "Fuzhou - FOC"
+  },
+  {
+    "origin": "Yogyakarta - YIA",
+    "destination": "Guangzhou - CAN"
+  },
+  {
+    "origin": "Yogyakarta - YIA",
+    "destination": "Hangzhou - HGH"
+  },
+  {
+    "origin": "Yogyakarta - YIA",
+    "destination": "Hanoi - HAN"
+  },
+  {
+    "origin": "Yogyakarta - YIA",
+    "destination": "Ho Chi Minh City - SGN"
+  },
+  {
+    "origin": "Yogyakarta - YIA",
+    "destination": "Hong Kong - HKG"
+  },
+  {
+    "origin": "Yogyakarta - YIA",
+    "destination": "Jeddah - JED"
+  },
+  {
+    "origin": "Yogyakarta - YIA",
+    "destination": "Kota Kinabalu - BKI"
+  },
+  {
+    "origin": "Yogyakarta - YIA",
+    "destination": "Kuala Lumpur - KUL"
+  },
+  {
+    "origin": "Yogyakarta - YIA",
+    "destination": "Langkawi - LGK"
+  },
+  {
+    "origin": "Yogyakarta - YIA",
+    "destination": "Manado - MDC"
+  },
+  {
+    "origin": "Yogyakarta - YIA",
+    "destination": "Manila - MNL"
+  },
+  {
+    "origin": "Yogyakarta - YIA",
+    "destination": "Medan - KNO"
+  },
+  {
+    "origin": "Yogyakarta - YIA",
+    "destination": "Melbourne - MEL"
+  },
+  {
+    "origin": "Yogyakarta - YIA",
+    "destination": "Osaka - KIX"
+  },
+  {
+    "origin": "Yogyakarta - YIA",
+    "destination": "Pekanbaru - PKU"
+  },
+  {
+    "origin": "Yogyakarta - YIA",
+    "destination": "Penang - PEN"
+  },
+  {
+    "origin": "Yogyakarta - YIA",
+    "destination": "Phuket - HKT"
+  },
+  {
+    "origin": "Yogyakarta - YIA",
+    "destination": "Sapporo - CTS"
+  },
+  {
+    "origin": "Yogyakarta - YIA",
+    "destination": "Seoul - ICN"
+  },
+  {
+    "origin": "Yogyakarta - YIA",
+    "destination": "Singapore - SIN"
+  },
+  {
+    "origin": "Yogyakarta - YIA",
+    "destination": "Sydney - SYD"
+  },
+  {
+    "origin": "Yogyakarta - YIA",
+    "destination": "Sydney - WSI"
+  },
+  {
+    "origin": "Yogyakarta - YIA",
+    "destination": "Taipei - TPE"
+  },
+  {
+    "origin": "Yogyakarta - YIA",
+    "destination": "Thiruvananthapuram - TRV"
+  },
+  {
+    "origin": "Yogyakarta - YIA",
+    "destination": "Tokyo - HND"
+  },
+  {
+    "origin": "Yogyakarta - YIA",
+    "destination": "Tokyo - NRT"
+  },
+  {
+    "origin": "Yogyakarta - YIA",
+    "destination": "Vientiane - VTE"
+  },
+  {
+    "origin": "Yogyakarta - YIA",
+    "destination": "Visakhapatnam - VTZ"
+  },
+  {
+    "origin": "Yogyakarta - YIA",
+    "destination": "Wuhan - WUH"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "name": "singapore-air",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "redeem": "node src/redeem-miles.js",
+    "rate-limit": "node src/rate-limit-probe.js",
+    "crawl": "NETWORK=sia MODE=hardcoded node src/rate-limit-probe.js",
+    "crawl:scoot": "NETWORK=scoot MODE=hardcoded node src/rate-limit-probe.js",
+    "rate-limit:scoot": "NETWORK=scoot MODE=hardcoded node src/rate-limit-probe.js",
+    "rate-limit:scoot:all": "NETWORK=scoot MODE=all node src/rate-limit-probe.js",
+    "rate-limit:scoot:hub": "NETWORK=scoot MODE=hub node src/rate-limit-probe.js"
+  }
+}

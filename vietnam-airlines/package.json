@@ -1,0 +1,12 @@
+{
+  "name": "vietnam-airlines",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "award": "NODE_EXTRA_CA_CERTS=certs/globalsign-ov-2018.pem node src/award-miles.js",
+    "discover": "NODE_EXTRA_CA_CERTS=certs/globalsign-ov-2018.pem node src/discover-pairs.js",
+    "rate-limit": "NODE_EXTRA_CA_CERTS=certs/globalsign-ov-2018.pem node src/rate-limit-probe.js",
+    "crawl": "NODE_EXTRA_CA_CERTS=certs/globalsign-ov-2018.pem MODE=hardcoded node src/rate-limit-probe.js"
+  }
+}
