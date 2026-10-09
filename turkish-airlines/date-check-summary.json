@@ -1,0 +1,21 @@
+{
+  "awardType": "AWARD_TICKET",
+  "sampledPairs": 200,
+  "totalPairs": 69960,
+  "dates": [
+    "15-10-2026",
+    "15-11-2026",
+    "15-12-2026",
+    "15-01-2027",
+    "15-02-2027",
+    "15-03-2027"
+  ],
+  "requests": 1200,
+  "elapsedSec": 88.4,
+  "reqPerSec": 13.57,
+  "pairsChecked": 200,
+  "dateDependentCount": 0,
+  "verdict": "DATE_INDEPENDENT",
+  "dateDependent": [],
+  "failures": []
+}

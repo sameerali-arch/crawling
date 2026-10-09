@@ -4,12 +4,12 @@
  * latency, and how award miles change by date (peak vs off-peak).
  *
  * Usage:
- *   yarn rate-limit                                   # SGN-HAN, next 5 months, sequential
- *   PAIRS=SGN-HAN,HAN-CDG MONTHS=12 yarn rate-limit
+ *   yarn rate-limit                                   # VN SGN-HAN, next 5 months, sequential
+ *   PAIRS=SGN-HAN,AF:CDG-JFK MONTHS=12 yarn rate-limit   # AIRLINE: prefix, default AIRLINE (VN)
  *   CONCURRENCY=5 yarn rate-limit                     # burst test
  *   DELAY_MS=200 LIMIT=20 yarn rate-limit
  *   yarn crawl                                        # every pair in src/hardcoded-pairs.json
- *   STEP_DAYS=7 yarn crawl                            # one date per week per pair
+ *   AIRLINES=VN STEP_DAYS=7 yarn crawl                # one airline, one date per week per pair
  */
 
 import { readFileSync, writeFileSync, appendFileSync } from "node:fs";
@@ -26,7 +26,10 @@ const LOG_PATH = join(__dirname, "..", "rate-limit-results.jsonl");
 const SUMMARY_PATH = join(__dirname, "..", "rate-limit-summary.json");
 
 const MODE = (process.env.MODE ?? "pairs").toLowerCase(); // pairs | hardcoded
-const AIRLINE = process.env.AIRLINE ?? "VN";
+const AIRLINE = (process.env.AIRLINE ?? "VN").toUpperCase();
+const AIRLINES = process.env.AIRLINES
+  ? process.env.AIRLINES.split(",").map((s) => s.trim().toUpperCase()).filter(Boolean)
+  : null;
 const MONTHS = Number(process.env.MONTHS ?? 5);
 const STEP_DAYS = Number(process.env.STEP_DAYS ?? 1);
 const DELAY_MS = Number(process.env.DELAY_MS ?? 0);
@@ -38,6 +41,7 @@ const UA =
   "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36";
 
 function loadPairs() {
+  let pairs;
   if (MODE === "hardcoded") {
     let list;
     try {
@@ -45,15 +49,21 @@ function loadPairs() {
     } catch (err) {
       throw new Error(`Cannot read ${PAIRS_FILE} (run "yarn discover" first): ${err.message}`);
     }
-    return list.map((p) => [p.origin, p.destination]);
+    pairs = list.map((p) => [p.airline ?? AIRLINE, p.origin, p.destination]);
+  } else {
+    pairs = (process.env.PAIRS ?? "SGN-HAN")
+      .split(",")
+      .map((p) => {
+        const [airline, route] = p.includes(":") ? p.split(":") : [AIRLINE, p];
+        return [airline, ...route.split("-")].map((s) => s.trim().toUpperCase());
+      })
+      .filter((p) => p.length === 3);
   }
-  return (process.env.PAIRS ?? "SGN-HAN")
-    .split(",")
-    .map((p) => p.trim().toUpperCase().split("-"))
-    .filter((p) => p.length === 2);
+  return AIRLINES ? pairs.filter(([airline]) => AIRLINES.includes(airline)) : pairs;
 }
 
 const PAIRS = loadPairs();
+const pairLabel = ([airline, origin, dest]) => `${airline}:${origin}-${dest}`;
 
 function formatDate(d) {
   const dd = String(d.getDate()).padStart(2, "0");
@@ -77,8 +87,8 @@ function buildDates() {
 
 function buildJobs(dates) {
   const jobs = [];
-  for (const [origin, dest] of PAIRS) {
-    for (const date of dates) jobs.push({ origin, dest, date });
+  for (const [airline, origin, dest] of PAIRS) {
+    for (const date of dates) jobs.push({ airline, origin, dest, date });
   }
   return jobs;
 }
@@ -123,9 +133,12 @@ function isBlock(row) {
   );
 }
 
-async function callEstimate({ origin, dest, date }) {
+const seasonLabel = (peak) => (peak === true ? "PEAK" : peak === false ? "off-peak" : "n/a");
+
+async function callEstimate({ airline, origin, dest, date }) {
   const started = Date.now();
   const row = {
+    airline,
     origin,
     dest,
     date,
@@ -158,7 +171,7 @@ async function callEstimate({ origin, dest, date }) {
       body: JSON.stringify({
         origin,
         destination: dest,
-        operatingAirline: AIRLINE,
+        operatingAirline: airline,
         departureDate: date,
       }),
     });
@@ -199,10 +212,10 @@ async function main() {
 
   console.log("=== Vietnam Airlines date-range rate-limit probe ===");
   console.log(
-    `mode=${MODE} pairs=${PAIRS.length <= 10 ? PAIRS.map((p) => p.join("-")).join(",") : PAIRS.length} dates=${dates.length} (${dates[0]} → ${dates.at(-1)}, step ${STEP_DAYS}d) jobs=${jobs.length}`
+    `mode=${MODE} pairs=${PAIRS.length <= 10 ? PAIRS.map(pairLabel).join(",") : PAIRS.length} dates=${dates.length} (${dates[0]} → ${dates.at(-1)}, step ${STEP_DAYS}d) jobs=${jobs.length}`
   );
   console.log(
-    `airline=${AIRLINE} CONCURRENCY=${CONCURRENCY} DELAY_MS=${DELAY_MS} STOP_AFTER_BLOCKS=${STOP_AFTER_BLOCKS}`
+    `airlines=${AIRLINES?.join(",") ?? "all in pairs"} CONCURRENCY=${CONCURRENCY} DELAY_MS=${DELAY_MS} STOP_AFTER_BLOCKS=${STOP_AFTER_BLOCKS}`
   );
   console.log(`log=${LOG_PATH}\n`);
 
@@ -214,7 +227,7 @@ async function main() {
   const statusCounts = {};
   const failBuckets = new Map();
   const latencies = [];
-  const pricingByPair = new Map(); // "SGN-HAN" -> Map(signature -> { count, firstDate, lastDate, peak, miles })
+  const pricingByPair = new Map(); // "VN:SGN-HAN" -> Map(signature -> { count, firstDate, lastDate, peak, miles })
   const peakDates = new Set();
   const offPeakDates = new Set();
   let firstBlockAt = null;
@@ -248,8 +261,9 @@ async function main() {
 
       if (ok) {
         consecutiveBlocks = 0;
-        (row.peak ? peakDates : offPeakDates).add(row.date);
-        const pairKey = `${row.origin}-${row.dest}`;
+        if (row.peak === true) peakDates.add(row.date);
+        else if (row.peak === false) offPeakDates.add(row.date);
+        const pairKey = pairLabel([row.airline, row.origin, row.dest]);
         const sig = JSON.stringify({ peak: row.peak, miles: row.miles });
         const byPair = pricingByPair.get(pairKey) ?? new Map();
         const entry = byPair.get(sig) ?? {
@@ -269,7 +283,7 @@ async function main() {
         const bucket = failBuckets.get(key) ?? { count: 0, examples: [] };
         bucket.count++;
         if (bucket.examples.length < 5) {
-          bucket.examples.push(`${row.origin}→${row.dest} ${row.date}`);
+          bucket.examples.push(`${row.airline} ${row.origin}→${row.dest} ${row.date}`);
         }
         failBuckets.set(key, bucket);
 
@@ -283,10 +297,10 @@ async function main() {
       }
 
       const label = ok
-        ? `OK ${row.peak ? "PEAK" : "off "} ${Object.values(row.miles).join("/")}`
+        ? `OK ${seasonLabel(row.peak).padEnd(8)} ${Object.values(row.miles).join("/")}`
         : `FAIL ${failKey(row)}`;
       console.log(
-        `[${String(n).padStart(4)}/${jobs.length}] ${String(row.ms).padStart(5)}ms  ${row.origin}→${row.dest} ${row.date}  ${label}`
+        `[${String(n).padStart(4)}/${jobs.length}] ${String(row.ms).padStart(5)}ms  ${row.airline} ${row.origin}→${row.dest} ${row.date}  ${label}`
       );
 
       if (DELAY_MS > 0) await sleep(DELAY_MS);
@@ -315,8 +329,9 @@ async function main() {
 
   const summary = {
     mode: MODE,
-    airline: AIRLINE,
-    pairs: PAIRS.map((p) => p.join("-")),
+    airlines: [...new Set(PAIRS.map(([airline]) => airline))],
+    pairCount: PAIRS.length,
+    pairs: PAIRS.length <= 100 ? PAIRS.map(pairLabel) : undefined,
     months: MONTHS,
     stepDays: STEP_DAYS,
     concurrency: CONCURRENCY,
@@ -357,7 +372,7 @@ async function main() {
   for (const [pair, p] of Object.entries(pricing)) {
     console.log(`${pair}: ${p.distinctPricings} distinct pricing(s) → ${p.dateDependent ? "DATE-DEPENDENT" : "same for all dates"}`);
     for (const v of p.variants) {
-      console.log(`  ${v.count}x ${v.peak ? "PEAK" : "off-peak"} ${JSON.stringify(v.miles)}  (${v.firstDate} … ${v.lastDate})`);
+      console.log(`  ${v.count}x ${seasonLabel(v.peak)} ${JSON.stringify(v.miles)}  (${v.firstDate} … ${v.lastDate})`);
     }
   }
 

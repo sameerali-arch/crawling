@@ -1,0 +1,37 @@
+{
+  "mode": "all",
+  "pairs": 69960,
+  "date": "07-11-2026",
+  "awardType": "AWARD_TICKET",
+  "concurrency": 5,
+  "delayMs": 0,
+  "jobs": 69960,
+  "retried": 0,
+  "completed": 69960,
+  "finalPairs": {
+    "ok": 69960,
+    "failed": 0
+  },
+  "failedPairs": [],
+  "stoppedEarly": false,
+  "firstBlockAt": null,
+  "elapsedSec": 4715.1,
+  "reqPerSec": 14.84,
+  "latencyMs": {
+    "p50": 321,
+    "p95": 389,
+    "p99": 490,
+    "max": 8274
+  },
+  "counts": {
+    "success": 69960,
+    "httpFail": 0,
+    "apiFail": 0,
+    "nonJson": 0,
+    "networkError": 0
+  },
+  "statusCounts": {
+    "200": 69960
+  },
+  "failureSummary": []
+}

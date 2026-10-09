@@ -1,7 +1,10 @@
 /**
- * Date-range probe for calculate-award-miles.
- * Walks every day for the next MONTHS on fixed OD pair(s) to measure rate limits,
- * latency, and whether award miles change by date.
+ * Probe for calculate-award-miles.
+ *
+ * MODE=dates (default): every day for the next MONTHS on fixed OD pair(s).
+ * MODE=all:             every airport × airport from tk-city-codes.js on one DATE,
+ *                       writes SUCCESS pairs to src/hardcoded-pairs.json.
+ * MODE=hardcoded:       pairs from src/hardcoded-pairs.json on one DATE.
  *
  * Usage:
  *   yarn rate-limit                                   # DEL-IST, next 5 months, sequential
@@ -9,12 +12,15 @@
  *   CONCURRENCY=5 yarn rate-limit                     # burst test
  *   DELAY_MS=200 LIMIT=20 yarn rate-limit
  *   AWARD_TYPE=AWARD_PROMOTION_TICKET yarn rate-limit
+ *   MODE=all CONCURRENCY=5 yarn rate-limit            # discover valid pairs
+ *   MODE=hardcoded CONCURRENCY=5 yarn rate-limit      # crawl validated pairs
  */
 
-import { writeFileSync, appendFileSync } from "node:fs";
+import { writeFileSync, appendFileSync, readFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { randomUUID } from "node:crypto";
+import { TK_CITY_CODES } from "./tk-city-codes.js";
 
 const BASE = "https://www.turkishairlines.com";
 const CALCULATOR_URL = `${BASE}/en-in/miles-and-smiles/miles-calculator/`;
@@ -30,13 +36,26 @@ const DELAY_MS = Number(process.env.DELAY_MS ?? 0);
 const CONCURRENCY = Number(process.env.CONCURRENCY ?? 1);
 const LIMIT = process.env.LIMIT ? Number(process.env.LIMIT) : null;
 const STOP_AFTER_BLOCKS = Number(process.env.STOP_AFTER_BLOCKS ?? 10);
+const MODE = (process.env.MODE ?? "dates").toLowerCase(); // dates | all | hardcoded
+const RETRY_FAILED = process.env.RETRY_FAILED !== "false";
+
+if (!["dates", "all", "hardcoded"].includes(MODE)) {
+  console.error(`Invalid MODE="${MODE}". Use dates, all, or hardcoded.`);
+  process.exit(1);
+}
 
 const UA =
   "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const LOG_PATH = join(__dirname, "..", "rate-limit-results.jsonl");
-const SUMMARY_PATH = join(__dirname, "..", "rate-limit-summary.json");
+const SUFFIX = MODE === "dates" ? "" : `-${MODE}`;
+const LOG_PATH = join(__dirname, "..", `rate-limit-results${SUFFIX}.jsonl`);
+const SUMMARY_PATH = join(__dirname, "..", `rate-limit-summary${SUFFIX}.json`);
+const HARDCODED_PATH = join(__dirname, "hardcoded-pairs.json");
+
+const CITY_BY_CODE = new Map(
+  TK_CITY_CODES.flatMap(([city, codes]) => codes.map((code) => [code, city]))
+);
 
 function formatDate(d) {
   const dd = String(d.getDate()).padStart(2, "0");
@@ -58,12 +77,47 @@ function buildDates() {
   return out;
 }
 
-function buildJobs(dates) {
+function singleDate() {
+  if (process.env.DATE) return process.env.DATE;
+  const d = new Date();
+  d.setDate(d.getDate() + 30);
+  return formatDate(d);
+}
+
+function labelToCode(label) {
+  return label.includes(" - ") ? label.split(" - ").pop() : label;
+}
+
+function buildPairs() {
+  if (MODE === "all") {
+    const codes = [...CITY_BY_CODE.keys()];
+    const pairs = [];
+    for (const origin of codes) {
+      for (const dest of codes) {
+        if (origin !== dest) pairs.push([origin, dest]);
+      }
+    }
+    return pairs;
+  }
+  if (MODE === "hardcoded") {
+    return JSON.parse(readFileSync(HARDCODED_PATH, "utf8")).map((p) => [
+      labelToCode(p.origin),
+      labelToCode(p.destination),
+    ]);
+  }
+  return PAIRS;
+}
+
+function buildJobs(pairs, dates) {
   const jobs = [];
-  for (const [origin, dest] of PAIRS) {
+  for (const [origin, dest] of pairs) {
     for (const date of dates) jobs.push({ origin, dest, date });
   }
   return jobs;
+}
+
+function airportLabel(code) {
+  return `${CITY_BY_CODE.get(code) ?? code} - ${code}`;
 }
 
 function mergeCookies(jar, setCookieHeaders) {
@@ -203,16 +257,19 @@ async function callAward(session, { origin, dest, date }) {
 }
 
 async function main() {
-  const dates = buildDates();
-  let jobs = buildJobs(dates);
+  const dates = MODE === "dates" ? buildDates() : [singleDate()];
+  const pairs = buildPairs();
+  let jobs = buildJobs(pairs, dates);
   if (LIMIT != null) jobs = jobs.slice(0, LIMIT);
 
-  console.log("=== Turkish Airlines date-range rate-limit probe ===");
+  console.log(`=== Turkish Airlines rate-limit probe (MODE=${MODE}) ===`);
   console.log(
-    `pairs=${PAIRS.map((p) => p.join("-")).join(",")} dates=${dates.length} (${dates[0]} → ${dates.at(-1)}) jobs=${jobs.length}`
+    MODE === "dates"
+      ? `pairs=${pairs.map((p) => p.join("-")).join(",")} dates=${dates.length} (${dates[0]} → ${dates.at(-1)}) jobs=${jobs.length}`
+      : `airports=${CITY_BY_CODE.size} pairs=${pairs.length} date=${dates[0]} jobs=${jobs.length}`
   );
   console.log(
-    `type=${AWARD_TYPE} CONCURRENCY=${CONCURRENCY} DELAY_MS=${DELAY_MS} STOP_AFTER_BLOCKS=${STOP_AFTER_BLOCKS}`
+    `type=${AWARD_TYPE} CONCURRENCY=${CONCURRENCY} DELAY_MS=${DELAY_MS} STOP_AFTER_BLOCKS=${STOP_AFTER_BLOCKS} RETRY_FAILED=${RETRY_FAILED}`
   );
   console.log(`log=${LOG_PATH}\n`);
 
@@ -230,70 +287,93 @@ async function main() {
   let consecutiveBlocks = 0;
   let stoppedEarly = false;
   let done = 0;
-  let next = 0;
+  let total = jobs.length;
+  const pairStatus = new Map(); // "DEL-IST" -> { ok, miles }
+  const failedJobs = [];
 
-  async function worker() {
-    while (!stoppedEarly && next < jobs.length) {
-      const i = next++;
-      const job = jobs[i];
-      const row = await callAward(session, job);
-      const n = ++done;
-
-      latencies.push(row.ms);
-      statusCounts[row.httpStatus] = (statusCounts[row.httpStatus] ?? 0) + 1;
-
-      const ok = row.httpStatus === 200 && row.success && !row.error;
-      if (row.error) counts.networkError++;
-      else if (row.httpStatus < 200 || row.httpStatus >= 300) counts.httpFail++;
-      else if (row.apiStatus === "NON_JSON") counts.nonJson++;
-      else if (ok) counts.success++;
-      else counts.apiFail++;
-
-      appendFileSync(
-        LOG_PATH,
-        `${JSON.stringify({ n, ...row, bodyPreview: ok ? undefined : row.bodyPreview })}\n`
-      );
-
-      if (ok) {
-        consecutiveBlocks = 0;
-        const pairKey = `${row.origin}-${row.dest}`;
-        const sig = JSON.stringify(row.miles);
-        const byPair = pricingByPair.get(pairKey) ?? new Map();
-        const entry = byPair.get(sig) ?? { count: 0, firstDate: row.date, lastDate: row.date, miles: row.miles };
-        entry.count++;
-        entry.lastDate = row.date;
-        byPair.set(sig, entry);
-        pricingByPair.set(pairKey, byPair);
-      } else {
-        const key = failKey(row) ?? "UNKNOWN";
-        const bucket = failBuckets.get(key) ?? { count: 0, examples: [] };
-        bucket.count++;
-        if (bucket.examples.length < 5) {
-          bucket.examples.push(`${row.origin}→${row.dest} ${row.date}`);
-        }
-        failBuckets.set(key, bucket);
-
-        if (isBlock(row)) {
-          consecutiveBlocks++;
-          if (firstBlockAt == null) {
-            firstBlockAt = { request: n, elapsedSec: Number(((Date.now() - t0) / 1000).toFixed(1)) };
-          }
-          if (consecutiveBlocks >= STOP_AFTER_BLOCKS) stoppedEarly = true;
-        }
+  async function runPool(list) {
+    let next = 0;
+    async function worker() {
+      while (!stoppedEarly && next < list.length) {
+        await processJob(list[next++]);
       }
-
-      const label = ok
-        ? `OK ${Object.values(row.miles).join("/")}`
-        : `FAIL ${failKey(row)}`;
-      console.log(
-        `[${String(n).padStart(4)}/${jobs.length}] ${String(row.ms).padStart(5)}ms  ${row.origin}→${row.dest} ${row.date}  ${label}`
-      );
-
-      if (DELAY_MS > 0) await sleep(DELAY_MS);
     }
+    await Promise.all(Array.from({ length: CONCURRENCY }, worker));
   }
 
-  await Promise.all(Array.from({ length: CONCURRENCY }, worker));
+  async function processJob(job) {
+    const row = await callAward(session, job);
+    const n = ++done;
+
+    latencies.push(row.ms);
+    statusCounts[row.httpStatus] = (statusCounts[row.httpStatus] ?? 0) + 1;
+
+    const ok = row.httpStatus === 200 && row.success && !row.error;
+    if (row.error) counts.networkError++;
+    else if (row.httpStatus < 200 || row.httpStatus >= 300) counts.httpFail++;
+    else if (row.apiStatus === "NON_JSON") counts.nonJson++;
+    else if (ok) counts.success++;
+    else counts.apiFail++;
+
+    appendFileSync(
+      LOG_PATH,
+      `${JSON.stringify({ n, ...row, bodyPreview: ok ? undefined : row.bodyPreview })}\n`
+    );
+
+    pairStatus.set(`${row.origin}-${row.dest}`, { ok, miles: row.miles });
+    if (!ok && !isBlock(row)) failedJobs.push(job);
+
+    if (ok) {
+      consecutiveBlocks = 0;
+      const pairKey = `${row.origin}-${row.dest}`;
+      const sig = JSON.stringify(row.miles);
+      const byPair = pricingByPair.get(pairKey) ?? new Map();
+      const entry = byPair.get(sig) ?? { count: 0, firstDate: row.date, lastDate: row.date, miles: row.miles };
+      entry.count++;
+      entry.lastDate = row.date;
+      byPair.set(sig, entry);
+      pricingByPair.set(pairKey, byPair);
+    } else {
+      const key = failKey(row) ?? "UNKNOWN";
+      const bucket = failBuckets.get(key) ?? { count: 0, examples: [] };
+      bucket.count++;
+      if (bucket.examples.length < 5) {
+        bucket.examples.push(`${row.origin}→${row.dest} ${row.date}`);
+      }
+      failBuckets.set(key, bucket);
+
+      if (isBlock(row)) {
+        consecutiveBlocks++;
+        if (firstBlockAt == null) {
+          firstBlockAt = { request: n, elapsedSec: Number(((Date.now() - t0) / 1000).toFixed(1)) };
+        }
+        if (consecutiveBlocks >= STOP_AFTER_BLOCKS) stoppedEarly = true;
+      }
+    }
+
+    const label = ok
+      ? `OK ${Object.values(row.miles).join("/")}`
+      : `FAIL ${failKey(row)}`;
+    console.log(
+      `[${String(n).padStart(5)}/${total}] ${String(row.ms).padStart(5)}ms  ${row.origin}→${row.dest} ${row.date}  ${label}`
+    );
+
+    if (DELAY_MS > 0) await sleep(DELAY_MS);
+  }
+
+  await runPool(jobs);
+
+  let retried = 0;
+  if (MODE !== "dates" && RETRY_FAILED && !stoppedEarly && failedJobs.length) {
+    const retryJobs = failedJobs.splice(0);
+    retried = retryJobs.length;
+    total += retried;
+    console.log(`\n=== Retrying ${retried} failed pair(s) once ===`);
+    await runPool(retryJobs);
+  }
+
+  const okPairs = [...pairStatus.entries()].filter(([, s]) => s.ok).map(([k]) => k);
+  const badPairs = [...pairStatus.entries()].filter(([, s]) => !s.ok).map(([k]) => k);
 
   const elapsedSec = (Date.now() - t0) / 1000;
   const sorted = [...latencies].sort((a, b) => a - b);
@@ -314,13 +394,18 @@ async function main() {
     .map(([key, v]) => ({ key, count: v.count, examples: v.examples }));
 
   const summary = {
-    pairs: PAIRS.map((p) => p.join("-")),
-    months: MONTHS,
+    mode: MODE,
+    pairs: MODE === "dates" ? pairs.map((p) => p.join("-")) : pairs.length,
+    months: MODE === "dates" ? MONTHS : undefined,
+    date: MODE === "dates" ? undefined : dates[0],
     awardType: AWARD_TYPE,
     concurrency: CONCURRENCY,
     delayMs: DELAY_MS,
     jobs: jobs.length,
+    retried,
     completed: done,
+    finalPairs: { ok: okPairs.length, failed: badPairs.length },
+    failedPairs: MODE === "dates" ? undefined : badPairs,
     stoppedEarly,
     firstBlockAt,
     elapsedSec: Number(elapsedSec.toFixed(1)),
@@ -333,7 +418,7 @@ async function main() {
     },
     counts,
     statusCounts,
-    pricing,
+    pricing: MODE === "dates" ? pricing : undefined,
     failureSummary,
   };
 
@@ -341,19 +426,37 @@ async function main() {
 
   console.log("\n=== Summary ===");
   console.log(
-    `elapsed: ${summary.elapsedSec}s  req/s: ${summary.reqPerSec}  completed: ${done}/${jobs.length}${stoppedEarly ? "  (STOPPED EARLY: blocked)" : ""}`
+    `elapsed: ${summary.elapsedSec}s  req/s: ${summary.reqPerSec}  completed: ${done}/${total}${stoppedEarly ? "  (STOPPED EARLY: blocked)" : ""}`
   );
+  console.log(`final pairs: ok=${okPairs.length} failed=${badPairs.length}${retried ? ` (retried ${retried})` : ""}`);
   console.log(`latency p50/p95/p99/max: ${Object.values(summary.latencyMs).join("/")} ms`);
   console.log(JSON.stringify(counts, null, 2));
   if (firstBlockAt) {
     console.log(`first block at request #${firstBlockAt.request} after ${firstBlockAt.elapsedSec}s`);
   }
 
-  console.log("\n=== Pricing by date ===");
-  for (const [pair, p] of Object.entries(pricing)) {
-    console.log(`${pair}: ${p.distinctPricings} distinct pricing(s) → ${p.dateDependent ? "DATE-DEPENDENT" : "same for all dates"}`);
-    for (const v of p.variants) {
-      console.log(`  ${v.count}x ${JSON.stringify(v.miles)}  (${v.firstDate} … ${v.lastDate})`);
+  if (MODE === "dates") {
+    console.log("\n=== Pricing by date ===");
+    for (const [pair, p] of Object.entries(pricing)) {
+      console.log(`${pair}: ${p.distinctPricings} distinct pricing(s) → ${p.dateDependent ? "DATE-DEPENDENT" : "same for all dates"}`);
+      for (const v of p.variants) {
+        console.log(`  ${v.count}x ${JSON.stringify(v.miles)}  (${v.firstDate} … ${v.lastDate})`);
+      }
+    }
+  }
+
+  if (MODE === "all") {
+    if (stoppedEarly || LIMIT != null) {
+      console.log(
+        `\nNOT writing ${HARDCODED_PATH} (${stoppedEarly ? "stopped early" : "LIMIT set"}) – partial run.`
+      );
+    } else {
+      const hardcoded = okPairs.map((key) => {
+        const [origin, dest] = key.split("-");
+        return { origin: airportLabel(origin), destination: airportLabel(dest) };
+      });
+      writeFileSync(HARDCODED_PATH, `${JSON.stringify(hardcoded, null, 2)}\n`);
+      console.log(`\nhardcoded pairs (${hardcoded.length}): ${HARDCODED_PATH}`);
     }
   }
 

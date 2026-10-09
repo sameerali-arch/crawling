@@ -5,6 +5,10 @@
   "type": "module",
   "scripts": {
     "award": "node src/award-miles.js",
-    "rate-limit": "node src/rate-limit-probe.js"
+    "rate-limit": "node src/rate-limit-probe.js",
+    "pairs:discover": "MODE=all CONCURRENCY=5 node src/rate-limit-probe.js",
+    "pairs:build": "node src/build-pairs.js",
+    "crawl": "MODE=hardcoded CONCURRENCY=5 node src/rate-limit-probe.js",
+    "date-check": "node src/date-check.js"
   }
 }
